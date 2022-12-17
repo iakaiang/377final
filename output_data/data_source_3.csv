@@ -1,0 +1,3003 @@
+state,date,positive cases
+District of Columbia,2020-03-07,1
+District of Columbia,2020-03-08,1
+District of Columbia,2020-03-09,4
+District of Columbia,2020-03-10,4
+District of Columbia,2020-03-11,10
+District of Columbia,2020-03-12,10
+District of Columbia,2020-03-13,10
+District of Columbia,2020-03-14,16
+District of Columbia,2020-03-15,17
+District of Columbia,2020-03-16,22
+District of Columbia,2020-03-17,31
+District of Columbia,2020-03-18,36
+District of Columbia,2020-03-19,39
+District of Columbia,2020-03-20,71
+District of Columbia,2020-03-21,77
+District of Columbia,2020-03-22,98
+District of Columbia,2020-03-23,116
+District of Columbia,2020-03-24,137
+District of Columbia,2020-03-25,183
+District of Columbia,2020-03-26,231
+District of Columbia,2020-03-27,267
+District of Columbia,2020-03-28,304
+District of Columbia,2020-03-29,342
+District of Columbia,2020-03-30,401
+District of Columbia,2020-03-31,495
+District of Columbia,2020-04-01,586
+District of Columbia,2020-04-02,653
+District of Columbia,2020-04-03,757
+District of Columbia,2020-04-04,902
+District of Columbia,2020-04-05,998
+District of Columbia,2020-04-06,1097
+District of Columbia,2020-04-07,1211
+District of Columbia,2020-04-08,1440
+District of Columbia,2020-04-09,1523
+District of Columbia,2020-04-10,1660
+District of Columbia,2020-04-11,1778
+District of Columbia,2020-04-12,1875
+District of Columbia,2020-04-13,1955
+District of Columbia,2020-04-14,2058
+District of Columbia,2020-04-15,2197
+District of Columbia,2020-04-16,2350
+District of Columbia,2020-04-17,2476
+District of Columbia,2020-04-18,2666
+District of Columbia,2020-04-19,2793
+District of Columbia,2020-04-20,2927
+District of Columbia,2020-04-21,3098
+District of Columbia,2020-04-22,3206
+District of Columbia,2020-04-23,3361
+District of Columbia,2020-04-24,3528
+District of Columbia,2020-04-25,3699
+District of Columbia,2020-04-26,3841
+District of Columbia,2020-04-27,3892
+District of Columbia,2020-04-28,3994
+District of Columbia,2020-04-29,4106
+District of Columbia,2020-04-30,4323
+District of Columbia,2020-05-01,4658
+District of Columbia,2020-05-02,4797
+District of Columbia,2020-05-03,5016
+District of Columbia,2020-05-04,5170
+District of Columbia,2020-05-05,5322
+District of Columbia,2020-05-06,5461
+District of Columbia,2020-05-07,5654
+District of Columbia,2020-05-08,5899
+District of Columbia,2020-05-09,6102
+District of Columbia,2020-05-10,6272
+District of Columbia,2020-05-11,6389
+District of Columbia,2020-05-12,6485
+District of Columbia,2020-05-13,6584
+District of Columbia,2020-05-14,6736
+District of Columbia,2020-05-15,6871
+District of Columbia,2020-05-16,7042
+District of Columbia,2020-05-17,7123
+District of Columbia,2020-05-18,7270
+District of Columbia,2020-05-19,7434
+District of Columbia,2020-05-20,7551
+District of Columbia,2020-05-21,7788
+District of Columbia,2020-05-22,7893
+District of Columbia,2020-05-23,7966
+District of Columbia,2020-05-24,8110
+District of Columbia,2020-05-25,8225
+District of Columbia,2020-05-26,8334
+District of Columbia,2020-05-27,8406
+District of Columbia,2020-05-28,8492
+District of Columbia,2020-05-29,8538
+District of Columbia,2020-05-30,8717
+District of Columbia,2020-05-31,8801
+District of Columbia,2020-06-01,8857
+District of Columbia,2020-06-02,8886
+District of Columbia,2020-06-03,9016
+District of Columbia,2020-06-04,9120
+District of Columbia,2020-06-05,9199
+District of Columbia,2020-06-06,9269
+District of Columbia,2020-06-07,9332
+District of Columbia,2020-06-08,9389
+District of Columbia,2020-06-09,9474
+District of Columbia,2020-06-10,9537
+District of Columbia,2020-06-11,9589
+District of Columbia,2020-06-12,9654
+District of Columbia,2020-06-13,9709
+District of Columbia,2020-06-14,9767
+District of Columbia,2020-06-15,9799
+District of Columbia,2020-06-16,9818
+District of Columbia,2020-06-17,9847
+District of Columbia,2020-06-18,9903
+District of Columbia,2020-06-19,9952
+District of Columbia,2020-06-20,9984
+District of Columbia,2020-06-21,10020
+District of Columbia,2020-06-22,10058
+District of Columbia,2020-06-23,10094
+District of Columbia,2020-06-24,10128
+District of Columbia,2020-06-25,10159
+District of Columbia,2020-06-26,10185
+District of Columbia,2020-06-27,10216
+District of Columbia,2020-06-28,10248
+District of Columbia,2020-06-29,10292
+District of Columbia,2020-06-30,10327
+District of Columbia,2020-07-01,10365
+District of Columbia,2020-07-02,10390
+District of Columbia,2020-07-03,10435
+District of Columbia,2020-07-04,10447
+District of Columbia,2020-07-05,10482
+District of Columbia,2020-07-06,10515
+District of Columbia,2020-07-07,10569
+District of Columbia,2020-07-08,10642
+District of Columbia,2020-07-09,10679
+District of Columbia,2020-07-10,10743
+District of Columbia,2020-07-11,10801
+District of Columbia,2020-07-12,10847
+District of Columbia,2020-07-13,10906
+District of Columbia,2020-07-14,10946
+District of Columbia,2020-07-15,11026
+District of Columbia,2020-07-16,11076
+District of Columbia,2020-07-17,11115
+District of Columbia,2020-07-18,11194
+District of Columbia,2020-07-19,11261
+District of Columbia,2020-07-20,11339
+District of Columbia,2020-07-21,11427
+District of Columbia,2020-07-22,11529
+District of Columbia,2020-07-23,11571
+District of Columbia,2020-07-24,11649
+District of Columbia,2020-07-25,11717
+District of Columbia,2020-07-26,11780
+District of Columbia,2020-07-27,11858
+District of Columbia,2020-07-28,11945
+District of Columbia,2020-07-29,11999
+District of Columbia,2020-07-30,12057
+District of Columbia,2020-07-31,12126
+District of Columbia,2020-08-01,12205
+District of Columbia,2020-08-02,12274
+District of Columbia,2020-08-03,12313
+District of Columbia,2020-08-04,12398
+District of Columbia,2020-08-05,12443
+District of Columbia,2020-08-06,12518
+District of Columbia,2020-08-07,12589
+District of Columbia,2020-08-08,12653
+District of Columbia,2020-08-09,12753
+District of Columbia,2020-08-10,12807
+District of Columbia,2020-08-11,12896
+District of Columbia,2020-08-12,12959
+District of Columbia,2020-08-13,13024
+District of Columbia,2020-08-14,13118
+District of Columbia,2020-08-15,13159
+District of Columbia,2020-08-16,13220
+District of Columbia,2020-08-17,13273
+District of Columbia,2020-08-18,13325
+District of Columbia,2020-08-19,13354
+District of Columbia,2020-08-20,13409
+District of Columbia,2020-08-21,13469
+District of Columbia,2020-08-22,13534
+District of Columbia,2020-08-23,13590
+District of Columbia,2020-08-24,13639
+District of Columbia,2020-08-25,13684
+District of Columbia,2020-08-26,13722
+District of Columbia,2020-08-27,13794
+District of Columbia,2020-08-28,13851
+District of Columbia,2020-08-29,13925
+District of Columbia,2020-08-30,13959
+District of Columbia,2020-08-31,13992
+District of Columbia,2020-09-01,14049
+District of Columbia,2020-09-02,14077
+District of Columbia,2020-09-03,14135
+District of Columbia,2020-09-04,14186
+District of Columbia,2020-09-05,14238
+District of Columbia,2020-09-06,14279
+District of Columbia,2020-09-07,14315
+District of Columbia,2020-09-08,14362
+District of Columbia,2020-09-09,14387
+District of Columbia,2020-09-10,14412
+District of Columbia,2020-09-11,14493
+District of Columbia,2020-09-12,14552
+District of Columbia,2020-09-13,14592
+District of Columbia,2020-09-14,14622
+District of Columbia,2020-09-15,14687
+District of Columbia,2020-09-16,14743
+District of Columbia,2020-09-17,14790
+District of Columbia,2020-09-18,14852
+District of Columbia,2020-09-19,14902
+District of Columbia,2020-09-20,14955
+District of Columbia,2020-09-21,14978
+District of Columbia,2020-09-22,15021
+District of Columbia,2020-09-23,15050
+District of Columbia,2020-09-24,15106
+District of Columbia,2020-09-25,15163
+District of Columbia,2020-09-26,15215
+District of Columbia,2020-09-27,15250
+District of Columbia,2020-09-28,15264
+District of Columbia,2020-09-29,15300
+District of Columbia,2020-09-30,15326
+District of Columbia,2020-10-01,15358
+District of Columbia,2020-10-02,15423
+District of Columbia,2020-10-03,15473
+District of Columbia,2020-10-04,15519
+District of Columbia,2020-10-05,15547
+District of Columbia,2020-10-06,15652
+District of Columbia,2020-10-07,15697
+District of Columbia,2020-10-08,15765
+District of Columbia,2020-10-09,15843
+District of Columbia,2020-10-10,15918
+District of Columbia,2020-10-11,15984
+District of Columbia,2020-10-12,16022
+District of Columbia,2020-10-13,16068
+District of Columbia,2020-10-14,16132
+District of Columbia,2020-10-15,16166
+District of Columbia,2020-10-16,16255
+District of Columbia,2020-10-17,16334
+District of Columbia,2020-10-18,16370
+District of Columbia,2020-10-19,16395
+District of Columbia,2020-10-20,16445
+District of Columbia,2020-10-21,16498
+District of Columbia,2020-10-22,16537
+District of Columbia,2020-10-23,16609
+District of Columbia,2020-10-24,16706
+District of Columbia,2020-10-25,16767
+District of Columbia,2020-10-26,16812
+District of Columbia,2020-10-27,16906
+District of Columbia,2020-10-28,16973
+District of Columbia,2020-10-29,17074
+District of Columbia,2020-10-30,17144
+District of Columbia,2020-10-31,17266
+District of Columbia,2020-11-01,17369
+District of Columbia,2020-11-02,17438
+District of Columbia,2020-11-03,17524
+District of Columbia,2020-11-04,17601
+District of Columbia,2020-11-05,17682
+District of Columbia,2020-11-06,17792
+District of Columbia,2020-11-07,17891
+District of Columbia,2020-11-08,18001
+District of Columbia,2020-11-09,18087
+District of Columbia,2020-11-10,18173
+District of Columbia,2020-11-11,18379
+District of Columbia,2020-11-12,18507
+District of Columbia,2020-11-13,18666
+District of Columbia,2020-11-14,18814
+District of Columbia,2020-11-15,18977
+District of Columbia,2020-11-16,19064
+District of Columbia,2020-11-17,19309
+District of Columbia,2020-11-18,19465
+District of Columbia,2020-11-19,19678
+District of Columbia,2020-11-20,19808
+District of Columbia,2020-11-21,19961
+District of Columbia,2020-11-22,20151
+District of Columbia,2020-11-23,20290
+District of Columbia,2020-11-24,20409
+District of Columbia,2020-11-25,20516
+District of Columbia,2020-11-26,20736
+District of Columbia,2020-11-27,20937
+District of Columbia,2020-11-28,21308
+District of Columbia,2020-11-29,21448
+District of Columbia,2020-11-30,21552
+District of Columbia,2020-12-01,21685
+District of Columbia,2020-12-02,21842
+District of Columbia,2020-12-03,22164
+District of Columbia,2020-12-04,22480
+District of Columbia,2020-12-05,22872
+District of Columbia,2020-12-06,23136
+District of Columbia,2020-12-07,23319
+District of Columbia,2020-12-08,23589
+District of Columbia,2020-12-09,23854
+District of Columbia,2020-12-10,24098
+District of Columbia,2020-12-11,24357
+District of Columbia,2020-12-12,24643
+District of Columbia,2020-12-13,24874
+District of Columbia,2020-12-14,25038
+District of Columbia,2020-12-15,25339
+District of Columbia,2020-12-16,25602
+District of Columbia,2020-12-17,25830
+District of Columbia,2020-12-18,26104
+District of Columbia,2020-12-19,26342
+District of Columbia,2020-12-20,26601
+District of Columbia,2020-12-21,26740
+District of Columbia,2020-12-22,26900
+District of Columbia,2020-12-23,27226
+District of Columbia,2020-12-24,27436
+District of Columbia,2020-12-25,27436
+District of Columbia,2020-12-26,27710
+District of Columbia,2020-12-27,28202
+District of Columbia,2020-12-28,28342
+District of Columbia,2020-12-29,28535
+District of Columbia,2020-12-30,28758
+District of Columbia,2020-12-31,28983
+District of Columbia,2021-01-01,29252
+District of Columbia,2021-01-02,29509
+District of Columbia,2021-01-03,29764
+District of Columbia,2021-01-04,29904
+District of Columbia,2021-01-05,30166
+District of Columbia,2021-01-06,30482
+District of Columbia,2021-01-07,30750
+District of Columbia,2021-01-08,31107
+District of Columbia,2021-01-09,31457
+District of Columbia,2021-01-10,31791
+District of Columbia,2021-01-11,31993
+District of Columbia,2021-01-12,32423
+District of Columbia,2021-01-13,32600
+District of Columbia,2021-01-14,32820
+District of Columbia,2021-01-15,33140
+District of Columbia,2021-01-16,33537
+District of Columbia,2021-01-17,33851
+District of Columbia,2021-01-18,34033
+District of Columbia,2021-01-19,34259
+District of Columbia,2021-01-20,34403
+District of Columbia,2021-01-21,34612
+District of Columbia,2021-01-22,34905
+District of Columbia,2021-01-23,35077
+District of Columbia,2021-01-24,35301
+District of Columbia,2021-01-25,35505
+District of Columbia,2021-01-26,35700
+District of Columbia,2021-01-27,35865
+District of Columbia,2021-01-28,36132
+District of Columbia,2021-01-29,36414
+District of Columbia,2021-01-30,36662
+District of Columbia,2021-01-31,36872
+District of Columbia,2021-02-01,37008
+District of Columbia,2021-02-02,37138
+District of Columbia,2021-02-03,37199
+District of Columbia,2021-02-04,37365
+District of Columbia,2021-02-05,37634
+District of Columbia,2021-02-06,37877
+District of Columbia,2021-02-07,38035
+District of Columbia,2021-02-08,38136
+District of Columbia,2021-02-09,38281
+District of Columbia,2021-02-10,38348
+District of Columbia,2021-02-11,38533
+District of Columbia,2021-02-12,38670
+District of Columbia,2021-02-13,38796
+District of Columbia,2021-02-14,38918
+District of Columbia,2021-02-15,39001
+District of Columbia,2021-02-16,39131
+District of Columbia,2021-02-17,39180
+District of Columbia,2021-02-18,39301
+District of Columbia,2021-02-19,39461
+District of Columbia,2021-02-20,39553
+District of Columbia,2021-02-21,39648
+District of Columbia,2021-02-22,39755
+District of Columbia,2021-02-23,39844
+District of Columbia,2021-02-24,39943
+District of Columbia,2021-02-25,40122
+District of Columbia,2021-02-26,40284
+District of Columbia,2021-02-27,40478
+District of Columbia,2021-02-28,40598
+District of Columbia,2021-03-01,40684
+District of Columbia,2021-03-02,40767
+District of Columbia,2021-03-03,40818
+District of Columbia,2021-03-04,41014
+District of Columbia,2021-03-05,41122
+District of Columbia,2021-03-06,41273
+District of Columbia,2021-03-07,41419
+District of Columbia,2021-03-08,41579
+District of Columbia,2021-03-09,41910
+District of Columbia,2021-03-10,42006
+District of Columbia,2021-03-11,42128
+District of Columbia,2021-03-12,42282
+District of Columbia,2021-03-13,42432
+District of Columbia,2021-03-14,42511
+District of Columbia,2021-03-15,42623
+District of Columbia,2021-03-16,42730
+District of Columbia,2021-03-17,42811
+District of Columbia,2021-03-18,42892
+District of Columbia,2021-03-19,43034
+District of Columbia,2021-03-20,43175
+District of Columbia,2021-03-21,43229
+District of Columbia,2021-03-22,43383
+District of Columbia,2021-03-23,43488
+District of Columbia,2021-03-24,43595
+District of Columbia,2021-03-25,43669
+District of Columbia,2021-03-26,43825
+District of Columbia,2021-03-27,44051
+District of Columbia,2021-03-28,44175
+District of Columbia,2021-03-29,44248
+District of Columbia,2021-03-30,44413
+District of Columbia,2021-03-31,44513
+District of Columbia,2021-04-01,44656
+District of Columbia,2021-04-02,44807
+District of Columbia,2021-04-03,44932
+District of Columbia,2021-04-04,45037
+District of Columbia,2021-04-05,45112
+District of Columbia,2021-04-06,45234
+District of Columbia,2021-04-07,45328
+District of Columbia,2021-04-08,45498
+District of Columbia,2021-04-09,45634
+District of Columbia,2021-04-10,45762
+District of Columbia,2021-04-11,45830
+District of Columbia,2021-04-12,45903
+District of Columbia,2021-04-13,46016
+District of Columbia,2021-04-14,46209
+District of Columbia,2021-04-15,46315
+District of Columbia,2021-04-16,46449
+District of Columbia,2021-04-17,46579
+District of Columbia,2021-04-18,46662
+District of Columbia,2021-04-19,46740
+District of Columbia,2021-04-20,46869
+District of Columbia,2021-04-21,46941
+District of Columbia,2021-04-22,47040
+District of Columbia,2021-04-23,47141
+District of Columbia,2021-04-24,47219
+District of Columbia,2021-04-25,47323
+District of Columbia,2021-04-26,47378
+District of Columbia,2021-04-27,47471
+District of Columbia,2021-04-28,47533
+District of Columbia,2021-04-29,47614
+District of Columbia,2021-04-30,47697
+District of Columbia,2021-05-01,47800
+District of Columbia,2021-05-02,47855
+District of Columbia,2021-05-03,47903
+District of Columbia,2021-05-04,47986
+District of Columbia,2021-05-05,48041
+District of Columbia,2021-05-06,48080
+District of Columbia,2021-05-07,48136
+District of Columbia,2021-05-08,48164
+District of Columbia,2021-05-09,48180
+District of Columbia,2021-05-10,48195
+District of Columbia,2021-05-11,48282
+District of Columbia,2021-05-12,48336
+District of Columbia,2021-05-13,48404
+District of Columbia,2021-05-14,48424
+District of Columbia,2021-05-15,48530
+District of Columbia,2021-05-16,48545
+District of Columbia,2021-05-17,48590
+District of Columbia,2021-05-18,48616
+District of Columbia,2021-05-19,48634
+District of Columbia,2021-05-20,48662
+District of Columbia,2021-05-21,48689
+District of Columbia,2021-05-22,48727
+District of Columbia,2021-05-23,48748
+District of Columbia,2021-05-24,48762
+District of Columbia,2021-05-25,48803
+District of Columbia,2021-05-26,48822
+District of Columbia,2021-05-27,48844
+District of Columbia,2021-05-28,48898
+District of Columbia,2021-05-29,48898
+District of Columbia,2021-05-30,48898
+District of Columbia,2021-05-31,48898
+District of Columbia,2021-06-01,49000
+District of Columbia,2021-06-02,49011
+District of Columbia,2021-06-03,49041
+District of Columbia,2021-06-04,49068
+District of Columbia,2021-06-05,49068
+District of Columbia,2021-06-06,49068
+District of Columbia,2021-06-07,49110
+District of Columbia,2021-06-08,49119
+District of Columbia,2021-06-09,49127
+District of Columbia,2021-06-10,49151
+District of Columbia,2021-06-11,49158
+District of Columbia,2021-06-12,49158
+District of Columbia,2021-06-13,49158
+District of Columbia,2021-06-14,49179
+District of Columbia,2021-06-15,49213
+District of Columbia,2021-06-16,49223
+District of Columbia,2021-06-17,49232
+District of Columbia,2021-06-18,49243
+District of Columbia,2021-06-19,49243
+District of Columbia,2021-06-20,49243
+District of Columbia,2021-06-21,49248
+District of Columbia,2021-06-22,49275
+District of Columbia,2021-06-23,49284
+District of Columbia,2021-06-24,49297
+District of Columbia,2021-06-25,49305
+District of Columbia,2021-06-26,49305
+District of Columbia,2021-06-27,49305
+District of Columbia,2021-06-28,49315
+District of Columbia,2021-06-29,49347
+District of Columbia,2021-06-30,49335
+District of Columbia,2021-07-01,49362
+District of Columbia,2021-07-02,49378
+District of Columbia,2021-07-03,49378
+District of Columbia,2021-07-04,49378
+District of Columbia,2021-07-05,49378
+District of Columbia,2021-07-06,49417
+District of Columbia,2021-07-07,49423
+District of Columbia,2021-07-08,49434
+District of Columbia,2021-07-09,49455
+District of Columbia,2021-07-10,49455
+District of Columbia,2021-07-11,49455
+District of Columbia,2021-07-12,49526
+District of Columbia,2021-07-13,49536
+District of Columbia,2021-07-14,49574
+District of Columbia,2021-07-15,49615
+District of Columbia,2021-07-16,49652
+District of Columbia,2021-07-17,49652
+District of Columbia,2021-07-18,49652
+District of Columbia,2021-07-19,49793
+District of Columbia,2021-07-20,49827
+District of Columbia,2021-07-21,49858
+District of Columbia,2021-07-22,49930
+District of Columbia,2021-07-23,49973
+District of Columbia,2021-07-24,49973
+District of Columbia,2021-07-25,49973
+District of Columbia,2021-07-26,50160
+District of Columbia,2021-07-27,50160
+District of Columbia,2021-07-28,50268
+District of Columbia,2021-07-29,50329
+District of Columbia,2021-07-30,50398
+District of Columbia,2021-07-31,50398
+District of Columbia,2021-08-01,50398
+District of Columbia,2021-08-02,50716
+District of Columbia,2021-08-03,50800
+District of Columbia,2021-08-04,50858
+District of Columbia,2021-08-05,50975
+District of Columbia,2021-08-06,51103
+District of Columbia,2021-08-07,51103
+District of Columbia,2021-08-08,51103
+District of Columbia,2021-08-09,51589
+District of Columbia,2021-08-10,51726
+District of Columbia,2021-08-11,51853
+District of Columbia,2021-08-12,52005
+District of Columbia,2021-08-13,52201
+District of Columbia,2021-08-14,52201
+District of Columbia,2021-08-15,52201
+District of Columbia,2021-08-16,52777
+District of Columbia,2021-08-17,52843
+District of Columbia,2021-08-18,52843
+District of Columbia,2021-08-19,53162
+District of Columbia,2021-08-20,53342
+District of Columbia,2021-08-21,53342
+District of Columbia,2021-08-22,53342
+District of Columbia,2021-08-23,53898
+District of Columbia,2021-08-24,54031
+District of Columbia,2021-08-25,54156
+District of Columbia,2021-08-26,54366
+District of Columbia,2021-08-27,54556
+District of Columbia,2021-08-28,54556
+District of Columbia,2021-08-29,54556
+District of Columbia,2021-08-30,55253
+District of Columbia,2021-08-31,55431
+District of Columbia,2021-09-01,55570
+District of Columbia,2021-09-02,55718
+District of Columbia,2021-09-03,55918
+District of Columbia,2021-09-04,55918
+District of Columbia,2021-09-05,55918
+District of Columbia,2021-09-06,55918
+District of Columbia,2021-09-07,56569
+District of Columbia,2021-09-08,56694
+District of Columbia,2021-09-09,56859
+District of Columbia,2021-09-10,56966
+District of Columbia,2021-09-11,56966
+District of Columbia,2021-09-12,56966
+District of Columbia,2021-09-13,57771
+District of Columbia,2021-09-14,58146
+District of Columbia,2021-09-15,58440
+District of Columbia,2021-09-16,58649
+District of Columbia,2021-09-17,58851
+District of Columbia,2021-09-18,58851
+District of Columbia,2021-09-19,58851
+District of Columbia,2021-09-20,59563
+District of Columbia,2021-09-21,59712
+District of Columbia,2021-09-22,59849
+District of Columbia,2021-09-23,60018
+District of Columbia,2021-09-24,60205
+District of Columbia,2021-09-25,60205
+District of Columbia,2021-09-26,60205
+District of Columbia,2021-09-27,60772
+District of Columbia,2021-09-28,60898
+District of Columbia,2021-09-29,60996
+District of Columbia,2021-09-30,61153
+District of Columbia,2021-10-01,61331
+District of Columbia,2021-10-02,61331
+District of Columbia,2021-10-03,61331
+District of Columbia,2021-10-04,61791
+District of Columbia,2021-10-05,61863
+District of Columbia,2021-10-06,61978
+District of Columbia,2021-10-07,62098
+District of Columbia,2021-10-08,62266
+District of Columbia,2021-10-09,62266
+District of Columbia,2021-10-10,62266
+District of Columbia,2021-10-11,62266
+District of Columbia,2021-10-12,62702
+District of Columbia,2021-10-13,62750
+District of Columbia,2021-10-14,62852
+District of Columbia,2021-10-15,62976
+District of Columbia,2021-10-16,62976
+District of Columbia,2021-10-17,62976
+District of Columbia,2021-10-18,63305
+District of Columbia,2021-10-19,63345
+District of Columbia,2021-10-20,63400
+District of Columbia,2021-10-21,63474
+District of Columbia,2021-10-22,63588
+District of Columbia,2021-10-23,63588
+District of Columbia,2021-10-24,63588
+District of Columbia,2021-10-25,63879
+District of Columbia,2021-10-26,63919
+District of Columbia,2021-10-27,63990
+District of Columbia,2021-10-28,64108
+District of Columbia,2021-10-29,64240
+District of Columbia,2021-10-30,64240
+District of Columbia,2021-10-31,64240
+District of Columbia,2021-11-01,64470
+District of Columbia,2021-11-02,64541
+District of Columbia,2021-11-03,64602
+District of Columbia,2021-11-04,64708
+District of Columbia,2021-11-05,64799
+District of Columbia,2021-11-06,64799
+District of Columbia,2021-11-07,64799
+District of Columbia,2021-11-08,65050
+District of Columbia,2021-11-09,65094
+District of Columbia,2021-11-10,65159
+District of Columbia,2021-11-11,65159
+District of Columbia,2021-11-12,65371
+District of Columbia,2021-11-13,65371
+District of Columbia,2021-11-14,65371
+District of Columbia,2021-11-15,65623
+District of Columbia,2021-11-16,65707
+District of Columbia,2021-11-17,65793
+District of Columbia,2021-11-18,65889
+District of Columbia,2021-11-19,66028
+District of Columbia,2021-11-20,66028
+District of Columbia,2021-11-21,66028
+District of Columbia,2021-11-22,66347
+District of Columbia,2021-11-23,66433
+District of Columbia,2021-11-24,66510
+District of Columbia,2021-11-25,66510
+District of Columbia,2021-11-26,66510
+District of Columbia,2021-11-27,66510
+District of Columbia,2021-11-28,66510
+District of Columbia,2021-11-29,66857
+District of Columbia,2021-11-30,66912
+District of Columbia,2021-12-01,67047
+District of Columbia,2021-12-02,67173
+District of Columbia,2021-12-03,67430
+District of Columbia,2021-12-04,67430
+District of Columbia,2021-12-05,67430
+District of Columbia,2021-12-06,67996
+District of Columbia,2021-12-07,68134
+District of Columbia,2021-12-08,68262
+District of Columbia,2021-12-09,68460
+District of Columbia,2021-12-10,68702
+District of Columbia,2021-12-11,68702
+District of Columbia,2021-12-12,68702
+District of Columbia,2021-12-13,68702
+District of Columbia,2021-12-14,69540
+District of Columbia,2021-12-15,69867
+District of Columbia,2021-12-16,70375
+District of Columbia,2021-12-17,71219
+District of Columbia,2021-12-18,71219
+District of Columbia,2021-12-19,71219
+District of Columbia,2021-12-20,74982
+District of Columbia,2021-12-21,76137
+District of Columbia,2021-12-22,77661
+District of Columbia,2021-12-23,79565
+District of Columbia,2021-12-24,79565
+District of Columbia,2021-12-25,79565
+District of Columbia,2021-12-26,79565
+District of Columbia,2021-12-27,88765
+District of Columbia,2021-12-28,90633
+District of Columbia,2021-12-29,92045
+District of Columbia,2021-12-30,94286
+District of Columbia,2021-12-31,94286
+District of Columbia,2022-01-01,94286
+District of Columbia,2022-01-02,94286
+District of Columbia,2022-01-03,103487
+District of Columbia,2022-01-04,105493
+District of Columbia,2022-01-05,106819
+District of Columbia,2022-01-06,108112
+District of Columbia,2022-01-07,110040
+District of Columbia,2022-01-08,110040
+District of Columbia,2022-01-09,110040
+District of Columbia,2022-01-10,116278
+District of Columbia,2022-01-11,117586
+District of Columbia,2022-01-12,118802
+District of Columbia,2022-01-13,120327
+District of Columbia,2022-01-14,121871
+District of Columbia,2022-01-15,121871
+District of Columbia,2022-01-16,121871
+District of Columbia,2022-01-17,121871
+District of Columbia,2022-01-18,125707
+District of Columbia,2022-01-19,126187
+District of Columbia,2022-01-20,126675
+District of Columbia,2022-01-21,127200
+District of Columbia,2022-01-22,127200
+District of Columbia,2022-01-23,127200
+District of Columbia,2022-01-24,128550
+District of Columbia,2022-01-25,128739
+District of Columbia,2022-01-26,129108
+District of Columbia,2022-01-27,129479
+District of Columbia,2022-01-28,129817
+District of Columbia,2022-01-29,129817
+District of Columbia,2022-01-30,129817
+District of Columbia,2022-01-31,130888
+District of Columbia,2022-02-01,130949
+District of Columbia,2022-02-02,131093
+District of Columbia,2022-02-03,131284
+District of Columbia,2022-02-04,131543
+District of Columbia,2022-02-05,131543
+District of Columbia,2022-02-06,131543
+District of Columbia,2022-02-07,132170
+District of Columbia,2022-02-08,132257
+District of Columbia,2022-02-09,132384
+District of Columbia,2022-02-10,132628
+District of Columbia,2022-02-11,132820
+District of Columbia,2022-02-12,132820
+District of Columbia,2022-02-13,132820
+District of Columbia,2022-02-14,133295
+District of Columbia,2022-02-15,133339
+District of Columbia,2022-02-16,133459
+District of Columbia,2022-02-17,133587
+District of Columbia,2022-02-18,133697
+District of Columbia,2022-02-19,133697
+District of Columbia,2022-02-20,133697
+District of Columbia,2022-02-21,133697
+District of Columbia,2022-02-22,134066
+District of Columbia,2022-02-23,134114
+District of Columbia,2022-02-24,134214
+District of Columbia,2022-02-25,134326
+District of Columbia,2022-02-26,134326
+District of Columbia,2022-02-27,134326
+District of Columbia,2022-02-28,134564
+District of Columbia,2022-03-01,134623
+District of Columbia,2022-03-02,134678
+District of Columbia,2022-03-03,134678
+District of Columbia,2022-03-04,134678
+District of Columbia,2022-03-05,134678
+District of Columbia,2022-03-06,134678
+District of Columbia,2022-03-07,134678
+District of Columbia,2022-03-08,134678
+District of Columbia,2022-03-09,135086
+District of Columbia,2022-03-10,135086
+District of Columbia,2022-03-11,135223
+District of Columbia,2022-03-12,135223
+District of Columbia,2022-03-13,135223
+District of Columbia,2022-03-14,135223
+District of Columbia,2022-03-15,135223
+District of Columbia,2022-03-16,135223
+District of Columbia,2022-03-17,135575
+District of Columbia,2022-03-18,135681
+District of Columbia,2022-03-19,135752
+District of Columbia,2022-03-20,135752
+District of Columbia,2022-03-21,135752
+District of Columbia,2022-03-22,135884
+District of Columbia,2022-03-23,135955
+District of Columbia,2022-03-24,136062
+District of Columbia,2022-03-25,136213
+District of Columbia,2022-03-26,136322
+District of Columbia,2022-03-27,136322
+District of Columbia,2022-03-28,136322
+District of Columbia,2022-03-29,136506
+District of Columbia,2022-03-30,136598
+District of Columbia,2022-03-31,136598
+District of Columbia,2022-04-01,136886
+District of Columbia,2022-04-02,136886
+District of Columbia,2022-04-03,136886
+District of Columbia,2022-04-04,136886
+District of Columbia,2022-04-05,136886
+District of Columbia,2022-04-06,137603
+District of Columbia,2022-04-07,137603
+District of Columbia,2022-04-08,137603
+District of Columbia,2022-04-09,137603
+District of Columbia,2022-04-10,137603
+District of Columbia,2022-04-11,137603
+District of Columbia,2022-04-12,138939
+District of Columbia,2022-04-13,139160
+District of Columbia,2022-04-14,139160
+District of Columbia,2022-04-15,139772
+District of Columbia,2022-04-16,139772
+District of Columbia,2022-04-17,139772
+District of Columbia,2022-04-18,139772
+District of Columbia,2022-04-19,139772
+District of Columbia,2022-04-20,140674
+District of Columbia,2022-04-21,140845
+District of Columbia,2022-04-22,140845
+District of Columbia,2022-04-23,141355
+District of Columbia,2022-04-24,141355
+District of Columbia,2022-04-25,141355
+District of Columbia,2022-04-26,141355
+District of Columbia,2022-04-27,141943
+District of Columbia,2022-04-28,141943
+District of Columbia,2022-04-29,141943
+District of Columbia,2022-04-30,141943
+District of Columbia,2022-05-01,141943
+District of Columbia,2022-05-02,141943
+District of Columbia,2022-05-03,141943
+District of Columbia,2022-05-04,141943
+District of Columbia,2022-05-05,141943
+District of Columbia,2022-05-06,141943
+District of Columbia,2022-05-07,141943
+District of Columbia,2022-05-08,141943
+District of Columbia,2022-05-09,141943
+District of Columbia,2022-05-10,143005
+District of Columbia,2022-05-11,143005
+District of Columbia,2022-05-12,143943
+District of Columbia,2022-05-13,144675
+District of Columbia,2022-05-14,145187
+District of Columbia,2022-05-15,145187
+District of Columbia,2022-05-16,145187
+District of Columbia,2022-05-17,145846
+District of Columbia,2022-05-18,146163
+District of Columbia,2022-05-19,146520
+District of Columbia,2022-05-20,146904
+District of Columbia,2022-05-21,147210
+District of Columbia,2022-05-22,147210
+District of Columbia,2022-05-23,147210
+District of Columbia,2022-05-24,147819
+District of Columbia,2022-05-25,148270
+District of Columbia,2022-05-26,148843
+District of Columbia,2022-05-27,149271
+District of Columbia,2022-05-28,149271
+District of Columbia,2022-05-29,149271
+District of Columbia,2022-05-30,149271
+District of Columbia,2022-05-31,149638
+District of Columbia,2022-06-01,150303
+District of Columbia,2022-06-02,150495
+District of Columbia,2022-06-03,150783
+District of Columbia,2022-06-04,151005
+District of Columbia,2022-06-05,151005
+District of Columbia,2022-06-06,151005
+District of Columbia,2022-06-07,151652
+District of Columbia,2022-06-08,151978
+District of Columbia,2022-06-09,152252
+District of Columbia,2022-06-10,152553
+District of Columbia,2022-06-11,152799
+District of Columbia,2022-06-12,152799
+District of Columbia,2022-06-13,152799
+District of Columbia,2022-06-14,153244
+District of Columbia,2022-06-15,153436
+District of Columbia,2022-06-16,153661
+District of Columbia,2022-06-17,153903
+District of Columbia,2022-06-18,153903
+District of Columbia,2022-06-19,153903
+District of Columbia,2022-06-20,153903
+District of Columbia,2022-06-21,154165
+District of Columbia,2022-06-22,155026
+District of Columbia,2022-06-23,155268
+District of Columbia,2022-06-24,155268
+District of Columbia,2022-06-25,155817
+District of Columbia,2022-06-26,155817
+District of Columbia,2022-06-27,155817
+District of Columbia,2022-06-28,155817
+District of Columbia,2022-06-29,156557
+District of Columbia,2022-06-30,156802
+District of Columbia,2022-07-01,157041
+District of Columbia,2022-07-02,157041
+District of Columbia,2022-07-03,157041
+District of Columbia,2022-07-04,157041
+District of Columbia,2022-07-05,157303
+District of Columbia,2022-07-06,157303
+District of Columbia,2022-07-07,158073
+District of Columbia,2022-07-08,158281
+District of Columbia,2022-07-09,158281
+District of Columbia,2022-07-10,158281
+District of Columbia,2022-07-11,158548
+District of Columbia,2022-07-12,159055
+District of Columbia,2022-07-13,159289
+District of Columbia,2022-07-14,159494
+District of Columbia,2022-07-15,159729
+District of Columbia,2022-07-16,159729
+District of Columbia,2022-07-17,159729
+District of Columbia,2022-07-18,159729
+District of Columbia,2022-07-19,160533
+District of Columbia,2022-07-20,160723
+District of Columbia,2022-07-21,160952
+District of Columbia,2022-07-22,161169
+District of Columbia,2022-07-23,161169
+District of Columbia,2022-07-24,161169
+District of Columbia,2022-07-25,161415
+District of Columbia,2022-07-26,161415
+District of Columbia,2022-07-27,162098
+District of Columbia,2022-07-28,162327
+District of Columbia,2022-07-29,162519
+District of Columbia,2022-07-30,162519
+District of Columbia,2022-07-31,162519
+District of Columbia,2022-08-01,162692
+District of Columbia,2022-08-02,162692
+District of Columbia,2022-08-03,163192
+District of Columbia,2022-08-04,163307
+District of Columbia,2022-08-05,163429
+District of Columbia,2022-08-06,163429
+District of Columbia,2022-08-07,163429
+District of Columbia,2022-08-08,163429
+District of Columbia,2022-08-09,163915
+District of Columbia,2022-08-10,164022
+District of Columbia,2022-08-11,164253
+District of Columbia,2022-08-12,164373
+District of Columbia,2022-08-13,164373
+District of Columbia,2022-08-14,164373
+District of Columbia,2022-08-15,164373
+District of Columbia,2022-08-16,164589
+District of Columbia,2022-08-17,164724
+District of Columbia,2022-08-18,164815
+District of Columbia,2022-08-19,165055
+District of Columbia,2022-08-20,165055
+District of Columbia,2022-08-21,165055
+District of Columbia,2022-08-22,165055
+District of Columbia,2022-08-23,165478
+District of Columbia,2022-08-24,165573
+District of Columbia,2022-08-25,165667
+District of Columbia,2022-08-26,165774
+District of Columbia,2022-08-27,165774
+District of Columbia,2022-08-28,165774
+District of Columbia,2022-08-29,165774
+District of Columbia,2022-08-30,166086
+District of Columbia,2022-08-31,166166
+District of Columbia,2022-09-01,166275
+District of Columbia,2022-09-02,166381
+District of Columbia,2022-09-03,166381
+District of Columbia,2022-09-04,166381
+District of Columbia,2022-09-05,166381
+District of Columbia,2022-09-06,166474
+District of Columbia,2022-09-07,166724
+District of Columbia,2022-09-08,166784
+District of Columbia,2022-09-09,166893
+District of Columbia,2022-09-10,166893
+District of Columbia,2022-09-11,166893
+District of Columbia,2022-09-12,166893
+District of Columbia,2022-09-13,166893
+District of Columbia,2022-09-14,167242
+District of Columbia,2022-09-15,167342
+District of Columbia,2022-09-16,167420
+District of Columbia,2022-09-17,167420
+District of Columbia,2022-09-18,167420
+District of Columbia,2022-09-19,167489
+District of Columbia,2022-09-20,167796
+District of Columbia,2022-09-21,167857
+District of Columbia,2022-09-22,167857
+District of Columbia,2022-09-23,168032
+District of Columbia,2022-09-24,168032
+District of Columbia,2022-09-25,168032
+District of Columbia,2022-09-26,168141
+District of Columbia,2022-09-27,168301
+District of Columbia,2022-09-28,168359
+District of Columbia,2022-09-29,168439
+District of Columbia,2022-09-30,168514
+District of Columbia,2022-10-01,168514
+District of Columbia,2022-10-02,168514
+District of Columbia,2022-10-03,168514
+District of Columbia,2022-10-04,168614
+District of Columbia,2022-10-05,168642
+District of Columbia,2022-10-06,168660
+District of Columbia,2022-10-07,168678
+District of Columbia,2022-10-08,168678
+District of Columbia,2022-10-09,168678
+District of Columbia,2022-10-10,168678
+District of Columbia,2022-10-11,168719
+District of Columbia,2022-10-12,168760
+District of Columbia,2022-10-13,168796
+District of Columbia,2022-10-14,169116
+District of Columbia,2022-10-15,169116
+District of Columbia,2022-10-16,169116
+District of Columbia,2022-10-17,169149
+District of Columbia,2022-10-18,169149
+District of Columbia,2022-10-19,169149
+District of Columbia,2022-10-20,169149
+District of Columbia,2022-10-21,169436
+District of Columbia,2022-10-22,169436
+District of Columbia,2022-10-23,169436
+District of Columbia,2022-10-24,169436
+District of Columbia,2022-10-25,169436
+District of Columbia,2022-10-26,169436
+District of Columbia,2022-10-27,169436
+District of Columbia,2022-10-28,169709
+District of Columbia,2022-10-29,169709
+District of Columbia,2022-10-30,169709
+District of Columbia,2022-10-31,169709
+District of Columbia,2022-11-01,169709
+District of Columbia,2022-11-02,169709
+District of Columbia,2022-11-03,170041
+District of Columbia,2022-11-04,170041
+District of Columbia,2022-11-05,170041
+District of Columbia,2022-11-06,170041
+District of Columbia,2022-11-07,170041
+District of Columbia,2022-11-08,170041
+District of Columbia,2022-11-09,170041
+District of Columbia,2022-11-10,170482
+District of Columbia,2022-11-11,170482
+District of Columbia,2022-11-12,170482
+District of Columbia,2022-11-13,170482
+District of Columbia,2022-11-14,170482
+District of Columbia,2022-11-15,170482
+District of Columbia,2022-11-16,170482
+District of Columbia,2022-11-17,170750
+District of Columbia,2022-11-18,170750
+District of Columbia,2022-11-19,170750
+District of Columbia,2022-11-20,170750
+District of Columbia,2022-11-21,170750
+District of Columbia,2022-11-22,170750
+District of Columbia,2022-11-23,170750
+District of Columbia,2022-11-24,170750
+District of Columbia,2022-11-25,171317
+District of Columbia,2022-11-26,171317
+District of Columbia,2022-11-27,171317
+District of Columbia,2022-11-28,171317
+District of Columbia,2022-11-29,171317
+District of Columbia,2022-11-30,171317
+District of Columbia,2022-12-01,171608
+Maryland,2020-03-05,3
+Maryland,2020-03-06,3
+Maryland,2020-03-07,3
+Maryland,2020-03-08,5
+Maryland,2020-03-09,6
+Maryland,2020-03-10,9
+Maryland,2020-03-11,13
+Maryland,2020-03-12,13
+Maryland,2020-03-13,18
+Maryland,2020-03-14,27
+Maryland,2020-03-15,32
+Maryland,2020-03-16,39
+Maryland,2020-03-17,57
+Maryland,2020-03-18,85
+Maryland,2020-03-19,108
+Maryland,2020-03-20,150
+Maryland,2020-03-21,195
+Maryland,2020-03-22,245
+Maryland,2020-03-23,290
+Maryland,2020-03-24,349
+Maryland,2020-03-25,423
+Maryland,2020-03-26,581
+Maryland,2020-03-27,790
+Maryland,2020-03-28,1066
+Maryland,2020-03-29,1244
+Maryland,2020-03-30,1415
+Maryland,2020-03-31,1662
+Maryland,2020-04-01,1985
+Maryland,2020-04-02,2331
+Maryland,2020-04-03,2758
+Maryland,2020-04-04,3125
+Maryland,2020-04-05,3609
+Maryland,2020-04-06,4045
+Maryland,2020-04-07,4371
+Maryland,2020-04-08,5529
+Maryland,2020-04-09,6185
+Maryland,2020-04-10,6968
+Maryland,2020-04-11,7694
+Maryland,2020-04-12,8225
+Maryland,2020-04-13,8936
+Maryland,2020-04-14,9472
+Maryland,2020-04-15,10096
+Maryland,2020-04-16,10851
+Maryland,2020-04-17,11641
+Maryland,2020-04-18,12379
+Maryland,2020-04-19,12892
+Maryland,2020-04-20,13750
+Maryland,2020-04-21,14261
+Maryland,2020-04-22,14842
+Maryland,2020-04-23,15805
+Maryland,2020-04-24,16693
+Maryland,2020-04-25,17844
+Maryland,2020-04-26,18664
+Maryland,2020-04-27,19574
+Maryland,2020-04-28,20200
+Maryland,2020-04-29,20942
+Maryland,2020-04-30,21825
+Maryland,2020-05-01,23566
+Maryland,2020-05-02,24568
+Maryland,2020-05-03,25561
+Maryland,2020-05-04,26509
+Maryland,2020-05-05,27217
+Maryland,2020-05-06,28263
+Maryland,2020-05-07,29476
+Maryland,2020-05-08,30592
+Maryland,2020-05-09,31638
+Maryland,2020-05-10,32693
+Maryland,2020-05-11,33483
+Maryland,2020-05-12,34174
+Maryland,2020-05-13,34927
+Maryland,2020-05-14,36021
+Maryland,2020-05-15,37105
+Maryland,2020-05-16,38083
+Maryland,2020-05-17,38920
+Maryland,2020-05-18,39882
+Maryland,2020-05-19,41664
+Maryland,2020-05-20,42442
+Maryland,2020-05-21,43645
+Maryland,2020-05-22,44539
+Maryland,2020-05-23,45608
+Maryland,2020-05-24,46919
+Maryland,2020-05-25,47754
+Maryland,2020-05-26,48290
+Maryland,2020-05-27,49042
+Maryland,2020-05-28,50334
+Maryland,2020-05-29,51631
+Maryland,2020-05-30,52662
+Maryland,2020-05-31,53456
+Maryland,2020-06-01,54035
+Maryland,2020-06-02,54831
+Maryland,2020-06-03,55617
+Maryland,2020-06-04,56490
+Maryland,2020-06-05,57407
+Maryland,2020-06-06,58099
+Maryland,2020-06-07,58593
+Maryland,2020-06-08,59024
+Maryland,2020-06-09,59543
+Maryland,2020-06-10,60114
+Maryland,2020-06-11,60823
+Maryland,2020-06-12,61262
+Maryland,2020-06-13,61935
+Maryland,2020-06-14,62328
+Maryland,2020-06-15,62653
+Maryland,2020-06-16,63004
+Maryland,2020-06-17,63565
+Maryland,2020-06-18,63839
+Maryland,2020-06-19,64150
+Maryland,2020-06-20,64565
+Maryland,2020-06-21,64903
+Maryland,2020-06-22,65202
+Maryland,2020-06-23,65602
+Maryland,2020-06-24,65934
+Maryland,2020-06-25,66397
+Maryland,2020-06-26,66704
+Maryland,2020-06-27,67032
+Maryland,2020-06-28,67360
+Maryland,2020-06-29,67837
+Maryland,2020-06-30,68152
+Maryland,2020-07-01,68502
+Maryland,2020-07-02,69015
+Maryland,2020-07-03,69422
+Maryland,2020-07-04,69724
+Maryland,2020-07-05,69957
+Maryland,2020-07-06,70497
+Maryland,2020-07-07,70986
+Maryland,2020-07-08,71455
+Maryland,2020-07-09,72037
+Maryland,2020-07-10,72503
+Maryland,2020-07-11,73060
+Maryland,2020-07-12,73705
+Maryland,2020-07-13,74124
+Maryland,2020-07-14,74836
+Maryland,2020-07-15,75576
+Maryland,2020-07-16,76237
+Maryland,2020-07-17,76941
+Maryland,2020-07-18,77773
+Maryland,2020-07-19,78698
+Maryland,2020-07-20,79251
+Maryland,2020-07-21,80111
+Maryland,2020-07-22,80738
+Maryland,2020-07-23,81396
+Maryland,2020-07-24,82326
+Maryland,2020-07-25,83617
+Maryland,2020-07-26,84306
+Maryland,2020-07-27,85436
+Maryland,2020-07-28,86091
+Maryland,2020-07-29,86846
+Maryland,2020-07-30,87740
+Maryland,2020-07-31,88907
+Maryland,2020-08-01,89925
+Maryland,2020-08-02,90835
+Maryland,2020-08-03,91705
+Maryland,2020-08-04,92416
+Maryland,2020-08-05,93000
+Maryland,2020-08-06,93598
+Maryland,2020-08-07,94395
+Maryland,2020-08-08,95157
+Maryland,2020-08-09,96065
+Maryland,2020-08-10,96821
+Maryland,2020-08-11,97403
+Maryland,2020-08-12,97959
+Maryland,2020-08-13,98728
+Maryland,2020-08-14,99430
+Maryland,2020-08-15,100237
+Maryland,2020-08-16,100772
+Maryland,2020-08-17,101276
+Maryland,2020-08-18,101780
+Maryland,2020-08-19,102215
+Maryland,2020-08-20,102783
+Maryland,2020-08-21,103461
+Maryland,2020-08-22,104040
+Maryland,2020-08-23,104618
+Maryland,2020-08-24,105168
+Maryland,2020-08-25,105554
+Maryland,2020-08-26,105996
+Maryland,2020-08-27,106558
+Maryland,2020-08-28,107146
+Maryland,2020-08-29,107790
+Maryland,2020-08-30,108286
+Maryland,2020-08-31,108742
+Maryland,2020-09-01,109353
+Maryland,2020-09-02,109808
+Maryland,2020-09-03,110504
+Maryland,2020-09-04,111332
+Maryland,2020-09-05,112104
+Maryland,2020-09-06,112557
+Maryland,2020-09-07,113378
+Maryland,2020-09-08,113734
+Maryland,2020-09-09,114070
+Maryland,2020-09-10,114574
+Maryland,2020-09-11,115217
+Maryland,2020-09-12,115876
+Maryland,2020-09-13,116600
+Maryland,2020-09-14,117147
+Maryland,2020-09-15,117745
+Maryland,2020-09-16,118387
+Maryland,2020-09-17,119017
+Maryland,2020-09-18,119559
+Maryland,2020-09-19,120107
+Maryland,2020-09-20,120656
+Maryland,2020-09-21,121068
+Maryland,2020-09-22,121409
+Maryland,2020-09-23,121793
+Maryland,2020-09-24,122293
+Maryland,2020-09-25,122850
+Maryland,2020-09-26,123328
+Maryland,2020-09-27,123895
+Maryland,2020-09-28,124371
+Maryland,2020-09-29,124805
+Maryland,2020-09-30,125217
+Maryland,2020-10-01,125997
+Maryland,2020-10-02,126711
+Maryland,2020-10-03,127194
+Maryland,2020-10-04,127785
+Maryland,2020-10-05,128277
+Maryland,2020-10-06,128691
+Maryland,2020-10-07,129158
+Maryland,2020-10-08,129919
+Maryland,2020-10-09,130652
+Maryland,2020-10-10,131169
+Maryland,2020-10-11,131853
+Maryland,2020-10-12,132357
+Maryland,2020-10-13,132839
+Maryland,2020-10-14,133413
+Maryland,2020-10-15,134042
+Maryland,2020-10-16,134822
+Maryland,2020-10-17,135463
+Maryland,2020-10-18,136149
+Maryland,2020-10-19,136643
+Maryland,2020-10-20,137229
+Maryland,2020-10-21,137720
+Maryland,2020-10-22,138473
+Maryland,2020-10-23,139185
+Maryland,2020-10-24,139859
+Maryland,2020-10-25,140770
+Maryland,2020-10-26,141334
+Maryland,2020-10-27,142237
+Maryland,2020-10-28,142918
+Maryland,2020-10-29,143875
+Maryland,2020-10-30,144800
+Maryland,2020-10-31,145593
+Maryland,2020-11-01,146627
+Maryland,2020-11-02,147477
+Maryland,2020-11-03,148249
+Maryland,2020-11-04,149232
+Maryland,2020-11-05,150424
+Maryland,2020-11-06,151964
+Maryland,2020-11-07,153198
+Maryland,2020-11-08,154451
+Maryland,2020-11-09,155824
+Maryland,2020-11-10,157149
+Maryland,2020-11-11,158836
+Maryland,2020-11-12,160311
+Maryland,2020-11-13,162181
+Maryland,2020-11-14,164239
+Maryland,2020-11-15,166317
+Maryland,2020-11-16,168041
+Maryland,2020-11-17,170193
+Maryland,2020-11-18,172204
+Maryland,2020-11-19,175092
+Maryland,2020-11-20,177239
+Maryland,2020-11-21,180125
+Maryland,2020-11-22,182482
+Maryland,2020-11-23,184140
+Maryland,2020-11-24,185812
+Maryland,2020-11-25,188509
+Maryland,2020-11-26,190635
+Maryland,2020-11-27,193205
+Maryland,2020-11-28,194603
+Maryland,2020-11-29,196727
+Maryland,2020-11-30,198710
+Maryland,2020-12-01,201479
+Maryland,2020-12-02,203672
+Maryland,2020-12-03,205716
+Maryland,2020-12-04,209512
+Maryland,2020-12-05,212545
+Maryland,2020-12-06,215348
+Maryland,2020-12-07,217647
+Maryland,2020-12-08,220279
+Maryland,2020-12-09,222971
+Maryland,2020-12-10,226173
+Maryland,2020-12-11,228792
+Maryland,2020-12-12,232172
+Maryland,2020-12-13,234975
+Maryland,2020-12-14,237215
+Maryland,2020-12-15,239694
+Maryland,2020-12-16,242057
+Maryland,2020-12-17,244247
+Maryland,2020-12-18,246816
+Maryland,2020-12-19,248924
+Maryland,2020-12-20,251069
+Maryland,2020-12-21,253345
+Maryland,2020-12-22,255666
+Maryland,2020-12-23,258129
+Maryland,2020-12-24,260994
+Maryland,2020-12-25,263326
+Maryland,2020-12-26,265606
+Maryland,2020-12-27,267455
+Maryland,2020-12-28,269442
+Maryland,2020-12-29,271267
+Maryland,2020-12-30,273881
+Maryland,2020-12-31,276834
+Maryland,2021-01-01,280387
+Maryland,2021-01-02,283339
+Maryland,2021-01-03,285487
+Maryland,2021-01-04,287970
+Maryland,2021-01-05,289927
+Maryland,2021-01-06,293079
+Maryland,2021-01-07,296049
+Maryland,2021-01-08,299781
+Maryland,2021-01-09,303535
+Maryland,2021-01-10,306853
+Maryland,2021-01-11,309874
+Maryland,2021-01-12,312534
+Maryland,2021-01-13,315055
+Maryland,2021-01-14,318002
+Maryland,2021-01-15,320923
+Maryland,2021-01-16,324203
+Maryland,2021-01-17,326648
+Maryland,2021-01-18,328417
+Maryland,2021-01-19,330390
+Maryland,2021-01-20,332558
+Maryland,2021-01-21,334725
+Maryland,2021-01-22,337129
+Maryland,2021-01-23,339482
+Maryland,2021-01-24,341666
+Maryland,2021-01-25,343353
+Maryland,2021-01-26,344839
+Maryland,2021-01-27,346734
+Maryland,2021-01-28,348925
+Maryland,2021-01-29,350805
+Maryland,2021-01-30,352902
+Maryland,2021-01-31,354649
+Maryland,2021-02-01,355812
+Maryland,2021-02-02,356717
+Maryland,2021-02-03,357660
+Maryland,2021-02-04,359214
+Maryland,2021-02-05,360762
+Maryland,2021-02-06,362263
+Maryland,2021-02-07,363829
+Maryland,2021-02-08,364732
+Maryland,2021-02-09,365708
+Maryland,2021-02-10,366845
+Maryland,2021-02-11,368044
+Maryland,2021-02-12,369156
+Maryland,2021-02-13,370316
+Maryland,2021-02-14,371163
+Maryland,2021-02-15,371885
+Maryland,2021-02-16,372403
+Maryland,2021-02-17,373161
+Maryland,2021-02-18,374148
+Maryland,2021-02-19,375156
+Maryland,2021-02-20,375919
+Maryland,2021-02-21,376537
+Maryland,2021-02-22,377148
+Maryland,2021-02-23,377810
+Maryland,2021-02-24,378672
+Maryland,2021-02-25,379648
+Maryland,2021-02-26,380618
+Maryland,2021-02-27,381454
+Maryland,2021-02-28,382281
+Maryland,2021-03-01,382884
+Maryland,2021-03-02,383352
+Maryland,2021-03-03,384138
+Maryland,2021-03-04,384947
+Maryland,2021-03-05,385860
+Maryland,2021-03-06,386792
+Maryland,2021-03-07,387501
+Maryland,2021-03-08,388217
+Maryland,2021-03-09,388848
+Maryland,2021-03-10,389748
+Maryland,2021-03-11,390672
+Maryland,2021-03-12,391662
+Maryland,2021-03-13,392763
+Maryland,2021-03-14,393623
+Maryland,2021-03-15,394240
+Maryland,2021-03-16,394900
+Maryland,2021-03-17,395817
+Maryland,2021-03-18,396930
+Maryland,2021-03-19,398083
+Maryland,2021-03-20,399201
+Maryland,2021-03-21,400208
+Maryland,2021-03-22,400890
+Maryland,2021-03-23,401612
+Maryland,2021-03-24,402785
+Maryland,2021-03-25,404167
+Maryland,2021-03-26,405528
+Maryland,2021-03-27,406894
+Maryland,2021-03-28,408229
+Maryland,2021-03-29,409260
+Maryland,2021-03-30,410163
+Maryland,2021-03-31,411529
+Maryland,2021-04-01,413113
+Maryland,2021-04-02,414570
+Maryland,2021-04-03,415845
+Maryland,2021-04-04,417514
+Maryland,2021-04-05,418374
+Maryland,2021-04-06,419241
+Maryland,2021-04-07,420712
+Maryland,2021-04-08,422009
+Maryland,2021-04-09,423849
+Maryland,2021-04-10,425433
+Maryland,2021-04-11,426916
+Maryland,2021-04-12,427901
+Maryland,2021-04-13,428985
+Maryland,2021-04-14,430537
+Maryland,2021-04-15,431981
+Maryland,2021-04-16,433545
+Maryland,2021-04-17,435045
+Maryland,2021-04-18,436214
+Maryland,2021-04-19,436846
+Maryland,2021-04-20,437770
+Maryland,2021-04-21,438975
+Maryland,2021-04-22,440178
+Maryland,2021-04-23,441341
+Maryland,2021-04-24,442537
+Maryland,2021-04-25,443443
+Maryland,2021-04-26,444001
+Maryland,2021-04-27,444678
+Maryland,2021-04-28,445681
+Maryland,2021-04-29,446647
+Maryland,2021-04-30,447590
+Maryland,2021-05-01,448529
+Maryland,2021-05-02,449180
+Maryland,2021-05-03,449701
+Maryland,2021-05-04,450201
+Maryland,2021-05-05,450880
+Maryland,2021-05-06,451458
+Maryland,2021-05-07,452226
+Maryland,2021-05-08,452882
+Maryland,2021-05-09,453316
+Maryland,2021-05-10,453592
+Maryland,2021-05-11,453992
+Maryland,2021-05-12,454463
+Maryland,2021-05-13,454937
+Maryland,2021-05-14,455449
+Maryland,2021-05-15,455827
+Maryland,2021-05-16,456196
+Maryland,2021-05-17,456408
+Maryland,2021-05-18,456619
+Maryland,2021-05-19,456956
+Maryland,2021-05-20,457275
+Maryland,2021-05-21,457718
+Maryland,2021-05-22,458239
+Maryland,2021-05-23,458483
+Maryland,2021-05-24,458711
+Maryland,2021-05-25,458871
+Maryland,2021-05-26,459069
+Maryland,2021-05-27,459308
+Maryland,2021-05-28,459555
+Maryland,2021-05-29,459740
+Maryland,2021-05-30,459989
+Maryland,2021-05-31,460106
+Maryland,2021-06-01,460207
+Maryland,2021-06-02,460272
+Maryland,2021-06-03,460406
+Maryland,2021-06-04,460552
+Maryland,2021-06-05,460684
+Maryland,2021-06-06,460789
+Maryland,2021-06-07,460873
+Maryland,2021-06-08,460952
+Maryland,2021-06-09,461079
+Maryland,2021-06-10,461201
+Maryland,2021-06-11,461315
+Maryland,2021-06-12,461402
+Maryland,2021-06-13,461485
+Maryland,2021-06-14,461545
+Maryland,2021-06-15,461609
+Maryland,2021-06-16,461687
+Maryland,2021-06-17,461766
+Maryland,2021-06-18,461852
+Maryland,2021-06-19,461914
+Maryland,2021-06-20,461956
+Maryland,2021-06-21,461996
+Maryland,2021-06-22,462045
+Maryland,2021-06-23,462104
+Maryland,2021-06-24,462170
+Maryland,2021-06-25,462234
+Maryland,2021-06-26,462295
+Maryland,2021-06-27,462361
+Maryland,2021-06-28,462398
+Maryland,2021-06-29,462434
+Maryland,2021-06-30,462496
+Maryland,2021-07-01,462571
+Maryland,2021-07-02,462656
+Maryland,2021-07-03,462752
+Maryland,2021-07-04,462813
+Maryland,2021-07-05,462851
+Maryland,2021-07-06,462898
+Maryland,2021-07-07,462953
+Maryland,2021-07-08,463052
+Maryland,2021-07-09,463197
+Maryland,2021-07-10,463324
+Maryland,2021-07-11,463403
+Maryland,2021-07-12,463482
+Maryland,2021-07-13,463600
+Maryland,2021-07-14,463704
+Maryland,2021-07-15,463882
+Maryland,2021-07-16,464065
+Maryland,2021-07-17,464248
+Maryland,2021-07-18,464414
+Maryland,2021-07-19,464553
+Maryland,2021-07-20,464710
+Maryland,2021-07-21,464954
+Maryland,2021-07-22,465257
+Maryland,2021-07-23,465545
+Maryland,2021-07-24,465862
+Maryland,2021-07-25,466168
+Maryland,2021-07-26,466424
+Maryland,2021-07-27,466733
+Maryland,2021-07-28,467149
+Maryland,2021-07-29,467654
+Maryland,2021-07-30,468180
+Maryland,2021-07-31,468767
+Maryland,2021-08-01,469314
+Maryland,2021-08-02,469762
+Maryland,2021-08-03,470130
+Maryland,2021-08-04,470825
+Maryland,2021-08-05,471554
+Maryland,2021-08-06,472444
+Maryland,2021-08-07,473336
+Maryland,2021-08-08,474189
+Maryland,2021-08-09,474775
+Maryland,2021-08-10,475405
+Maryland,2021-08-11,476291
+Maryland,2021-08-12,477338
+Maryland,2021-08-13,478288
+Maryland,2021-08-14,479304
+Maryland,2021-08-15,480173
+Maryland,2021-08-16,480939
+Maryland,2021-08-17,481790
+Maryland,2021-08-18,482802
+Maryland,2021-08-19,483862
+Maryland,2021-08-20,485068
+Maryland,2021-08-21,486200
+Maryland,2021-08-22,487190
+Maryland,2021-08-23,488115
+Maryland,2021-08-24,488962
+Maryland,2021-08-25,490152
+Maryland,2021-08-26,491396
+Maryland,2021-08-27,492770
+Maryland,2021-08-28,494138
+Maryland,2021-08-29,495205
+Maryland,2021-08-30,496147
+Maryland,2021-08-31,497225
+Maryland,2021-09-01,498599
+Maryland,2021-09-02,499871
+Maryland,2021-09-03,501259
+Maryland,2021-09-04,502453
+Maryland,2021-09-05,503258
+Maryland,2021-09-06,504285
+Maryland,2021-09-07,505080
+Maryland,2021-09-08,505781
+Maryland,2021-09-09,506688
+Maryland,2021-09-10,508241
+Maryland,2021-09-11,509617
+Maryland,2021-09-12,510768
+Maryland,2021-09-13,511871
+Maryland,2021-09-14,512966
+Maryland,2021-09-15,514156
+Maryland,2021-09-16,515486
+Maryland,2021-09-17,517011
+Maryland,2021-09-18,518289
+Maryland,2021-09-19,519325
+Maryland,2021-09-20,520464
+Maryland,2021-09-21,521438
+Maryland,2021-09-22,522583
+Maryland,2021-09-23,523988
+Maryland,2021-09-24,525351
+Maryland,2021-09-25,526919
+Maryland,2021-09-26,528033
+Maryland,2021-09-27,528993
+Maryland,2021-09-28,529966
+Maryland,2021-09-29,531091
+Maryland,2021-09-30,532570
+Maryland,2021-10-01,534101
+Maryland,2021-10-02,535388
+Maryland,2021-10-03,536480
+Maryland,2021-10-04,537558
+Maryland,2021-10-05,538206
+Maryland,2021-10-06,539283
+Maryland,2021-10-07,540681
+Maryland,2021-10-08,541857
+Maryland,2021-10-09,543116
+Maryland,2021-10-10,544449
+Maryland,2021-10-11,545258
+Maryland,2021-10-12,545669
+Maryland,2021-10-13,546783
+Maryland,2021-10-14,547907
+Maryland,2021-10-15,548975
+Maryland,2021-10-16,549911
+Maryland,2021-10-17,550782
+Maryland,2021-10-18,551496
+Maryland,2021-10-19,552038
+Maryland,2021-10-20,552755
+Maryland,2021-10-21,553824
+Maryland,2021-10-22,554687
+Maryland,2021-10-23,555597
+Maryland,2021-10-24,556314
+Maryland,2021-10-25,556826
+Maryland,2021-10-26,557423
+Maryland,2021-10-27,558154
+Maryland,2021-10-28,559083
+Maryland,2021-10-29,559994
+Maryland,2021-10-30,560865
+Maryland,2021-10-31,561501
+Maryland,2021-11-01,561949
+Maryland,2021-11-02,562431
+Maryland,2021-11-03,563127
+Maryland,2021-11-04,563927
+Maryland,2021-11-05,564795
+Maryland,2021-11-06,565586
+Maryland,2021-11-07,566313
+Maryland,2021-11-08,566868
+Maryland,2021-11-09,567316
+Maryland,2021-11-10,568160
+Maryland,2021-11-11,569146
+Maryland,2021-11-12,570055
+Maryland,2021-11-13,571038
+Maryland,2021-11-14,571857
+Maryland,2021-11-15,572574
+Maryland,2021-11-16,573276
+Maryland,2021-11-17,574067
+Maryland,2021-11-18,575147
+Maryland,2021-11-19,576229
+Maryland,2021-11-20,577246
+Maryland,2021-11-21,578252
+Maryland,2021-11-22,579084
+Maryland,2021-11-23,579824
+Maryland,2021-11-24,580729
+Maryland,2021-11-25,580729
+Maryland,2021-11-26,580729
+Maryland,2021-11-27,583532
+Maryland,2021-11-28,584370
+Maryland,2021-11-29,585132
+Maryland,2021-11-30,586376
+Maryland,2021-12-01,587518
+Maryland,2021-12-02,589346
+Maryland,2021-12-03,591046
+Maryland,2021-12-04,592912
+Maryland,2021-12-05,592912
+Maryland,2021-12-06,592912
+Maryland,2021-12-07,592912
+Maryland,2021-12-08,592912
+Maryland,2021-12-09,592912
+Maryland,2021-12-10,592912
+Maryland,2021-12-11,592912
+Maryland,2021-12-12,592912
+Maryland,2021-12-13,592912
+Maryland,2021-12-14,592912
+Maryland,2021-12-15,592912
+Maryland,2021-12-16,592912
+Maryland,2021-12-17,592912
+Maryland,2021-12-18,592912
+Maryland,2021-12-19,592912
+Maryland,2021-12-20,621453
+Maryland,2021-12-21,627671
+Maryland,2021-12-22,631743
+Maryland,2021-12-23,638612
+Maryland,2021-12-24,638612
+Maryland,2021-12-25,638612
+Maryland,2021-12-26,663647
+Maryland,2021-12-27,669023
+Maryland,2021-12-28,675599
+Maryland,2021-12-29,686473
+Maryland,2021-12-30,700789
+Maryland,2021-12-31,700789
+Maryland,2022-01-01,700789
+Maryland,2022-01-02,737437
+Maryland,2022-01-03,751688
+Maryland,2022-01-04,766182
+Maryland,2022-01-05,776468
+Maryland,2022-01-06,789204
+Maryland,2022-01-07,800982
+Maryland,2022-01-08,813929
+Maryland,2022-01-09,831182
+Maryland,2022-01-10,840865
+Maryland,2022-01-11,850558
+Maryland,2022-01-12,861593
+Maryland,2022-01-13,872182
+Maryland,2022-01-14,882170
+Maryland,2022-01-15,892052
+Maryland,2022-01-16,899922
+Maryland,2022-01-17,906460
+Maryland,2022-01-18,909675
+Maryland,2022-01-19,913716
+Maryland,2022-01-20,922613
+Maryland,2022-01-21,927349
+Maryland,2022-01-22,932195
+Maryland,2022-01-23,935874
+Maryland,2022-01-24,938568
+Maryland,2022-01-25,940968
+Maryland,2022-01-26,943869
+Maryland,2022-01-27,947125
+Maryland,2022-01-28,950136
+Maryland,2022-01-29,952528
+Maryland,2022-01-30,954469
+Maryland,2022-01-31,955537
+Maryland,2022-02-01,957036
+Maryland,2022-02-02,958385
+Maryland,2022-02-03,960459
+Maryland,2022-02-04,962063
+Maryland,2022-02-05,963691
+Maryland,2022-02-06,964815
+Maryland,2022-02-07,965587
+Maryland,2022-02-08,966325
+Maryland,2022-02-09,967076
+Maryland,2022-02-10,968176
+Maryland,2022-02-11,968907
+Maryland,2022-02-12,969848
+Maryland,2022-02-13,970566
+Maryland,2022-02-14,970991
+Maryland,2022-02-15,971435
+Maryland,2022-02-16,994837
+Maryland,2022-02-17,995589
+Maryland,2022-02-18,996443
+Maryland,2022-02-19,997309
+Maryland,2022-02-20,998398
+Maryland,2022-02-21,998398
+Maryland,2022-02-22,999151
+Maryland,2022-02-23,999492
+Maryland,2022-02-24,1000153
+Maryland,2022-02-25,1000825
+Maryland,2022-02-26,1001772
+Maryland,2022-02-27,1002153
+Maryland,2022-02-28,1002542
+Maryland,2022-03-01,1002897
+Maryland,2022-03-02,1003302
+Maryland,2022-03-03,1003773
+Maryland,2022-03-04,1004171
+Maryland,2022-03-05,1004553
+Maryland,2022-03-06,1004802
+Maryland,2022-03-07,1005025
+Maryland,2022-03-08,1005319
+Maryland,2022-03-09,1005596
+Maryland,2022-03-10,1005981
+Maryland,2022-03-11,1006327
+Maryland,2022-03-12,1006697
+Maryland,2022-03-13,1006901
+Maryland,2022-03-14,1007047
+Maryland,2022-03-15,1007305
+Maryland,2022-03-16,1007637
+Maryland,2022-03-17,1008012
+Maryland,2022-03-18,1008442
+Maryland,2022-03-19,1008800
+Maryland,2022-03-20,1009004
+Maryland,2022-03-21,1009179
+Maryland,2022-03-22,1009361
+Maryland,2022-03-23,1009607
+Maryland,2022-03-24,1009969
+Maryland,2022-03-25,1010360
+Maryland,2022-03-26,1010761
+Maryland,2022-03-27,1010986
+Maryland,2022-03-28,1011198
+Maryland,2022-03-29,1011475
+Maryland,2022-03-30,1011762
+Maryland,2022-03-31,1012183
+Maryland,2022-04-01,1012621
+Maryland,2022-04-02,1012621
+Maryland,2022-04-03,1012621
+Maryland,2022-04-04,1013660
+Maryland,2022-04-05,1013960
+Maryland,2022-04-06,1014487
+Maryland,2022-04-07,1014978
+Maryland,2022-04-08,1015622
+Maryland,2022-04-09,1015622
+Maryland,2022-04-10,1015622
+Maryland,2022-04-11,1017235
+Maryland,2022-04-12,1017734
+Maryland,2022-04-13,1018190
+Maryland,2022-04-14,1018965
+Maryland,2022-04-15,1019751
+Maryland,2022-04-16,1019751
+Maryland,2022-04-17,1019751
+Maryland,2022-04-18,1020615
+Maryland,2022-04-19,1022489
+Maryland,2022-04-20,1023125
+Maryland,2022-04-21,1024169
+Maryland,2022-04-22,1025184
+Maryland,2022-04-23,1025184
+Maryland,2022-04-24,1025184
+Maryland,2022-04-25,1026189
+Maryland,2022-04-26,1028290
+Maryland,2022-04-27,1029016
+Maryland,2022-04-28,1030408
+Maryland,2022-04-29,1031797
+Maryland,2022-04-30,1031797
+Maryland,2022-05-01,1031797
+Maryland,2022-05-02,1033039
+Maryland,2022-05-03,1035272
+Maryland,2022-05-04,1036603
+Maryland,2022-05-05,1038128
+Maryland,2022-05-06,1040041
+Maryland,2022-05-07,1040041
+Maryland,2022-05-08,1040041
+Maryland,2022-05-09,1041886
+Maryland,2022-05-10,1045986
+Maryland,2022-05-11,1047526
+Maryland,2022-05-12,1049736
+Maryland,2022-05-13,1052203
+Maryland,2022-05-14,1052203
+Maryland,2022-05-15,1052203
+Maryland,2022-05-16,1054812
+Maryland,2022-05-17,1060508
+Maryland,2022-05-18,1062500
+Maryland,2022-05-19,1065270
+Maryland,2022-05-20,1068287
+Maryland,2022-05-21,1068287
+Maryland,2022-05-22,1068287
+Maryland,2022-05-23,1070472
+Maryland,2022-05-24,1076406
+Maryland,2022-05-25,1078389
+Maryland,2022-05-26,1081014
+Maryland,2022-05-27,1083691
+Maryland,2022-05-28,1083691
+Maryland,2022-05-29,1083691
+Maryland,2022-05-30,1083691
+Maryland,2022-05-31,1085895
+Maryland,2022-06-01,1093708
+Maryland,2022-06-02,1093681
+Maryland,2022-06-03,1096170
+Maryland,2022-06-04,1096170
+Maryland,2022-06-05,1096170
+Maryland,2022-06-06,1098538
+Maryland,2022-06-07,1102992
+Maryland,2022-06-08,1104351
+Maryland,2022-06-09,1106107
+Maryland,2022-06-10,1107658
+Maryland,2022-06-11,1107658
+Maryland,2022-06-12,1107658
+Maryland,2022-06-13,1109546
+Maryland,2022-06-14,1112972
+Maryland,2022-06-15,1114116
+Maryland,2022-06-16,1115749
+Maryland,2022-06-17,1117664
+Maryland,2022-06-18,1117664
+Maryland,2022-06-19,1117664
+Maryland,2022-06-20,1117664
+Maryland,2022-06-21,1119052
+Maryland,2022-06-22,1123059
+Maryland,2022-06-23,1124657
+Maryland,2022-06-24,1126355
+Maryland,2022-06-25,1126355
+Maryland,2022-06-26,1126355
+Maryland,2022-06-27,1127989
+Maryland,2022-06-28,1131638
+Maryland,2022-06-29,1133072
+Maryland,2022-06-30,1134788
+Maryland,2022-07-01,1136584
+Maryland,2022-07-02,1136584
+Maryland,2022-07-03,1136584
+Maryland,2022-07-04,1136584
+Maryland,2022-07-05,1138176
+Maryland,2022-07-06,1142633
+Maryland,2022-07-07,1143838
+Maryland,2022-07-08,1145711
+Maryland,2022-07-09,1145711
+Maryland,2022-07-10,1145711
+Maryland,2022-07-11,1147629
+Maryland,2022-07-12,1151690
+Maryland,2022-07-13,1153471
+Maryland,2022-07-14,1155247
+Maryland,2022-07-15,1157029
+Maryland,2022-07-16,1157029
+Maryland,2022-07-17,1157029
+Maryland,2022-07-18,1158853
+Maryland,2022-07-19,1162367
+Maryland,2022-07-20,1164403
+Maryland,2022-07-21,1166461
+Maryland,2022-07-22,1168190
+Maryland,2022-07-23,1168190
+Maryland,2022-07-24,1168190
+Maryland,2022-07-25,1170049
+Maryland,2022-07-26,1174123
+Maryland,2022-07-27,1175786
+Maryland,2022-07-28,1177761
+Maryland,2022-07-29,1179674
+Maryland,2022-07-30,1179674
+Maryland,2022-07-31,1179674
+Maryland,2022-08-01,1181478
+Maryland,2022-08-02,1185454
+Maryland,2022-08-03,1186986
+Maryland,2022-08-04,1188959
+Maryland,2022-08-05,1190679
+Maryland,2022-08-06,1190679
+Maryland,2022-08-07,1190679
+Maryland,2022-08-08,1192231
+Maryland,2022-08-09,1196004
+Maryland,2022-08-10,1197753
+Maryland,2022-08-11,1199669
+Maryland,2022-08-12,1201609
+Maryland,2022-08-13,1201609
+Maryland,2022-08-14,1201609
+Maryland,2022-08-15,1203149
+Maryland,2022-08-16,1206043
+Maryland,2022-08-17,1207283
+Maryland,2022-08-18,1209060
+Maryland,2022-08-19,1210586
+Maryland,2022-08-20,1210586
+Maryland,2022-08-21,1210586
+Maryland,2022-08-22,1211903
+Maryland,2022-08-23,1214854
+Maryland,2022-08-24,1215687
+Maryland,2022-08-25,1217056
+Maryland,2022-08-26,1218315
+Maryland,2022-08-27,1218584
+Maryland,2022-08-28,1218584
+Maryland,2022-08-29,1219871
+Maryland,2022-08-30,1222419
+Maryland,2022-08-31,1223380
+Maryland,2022-09-01,1224729
+Maryland,2022-09-02,1225805
+Maryland,2022-09-03,1225805
+Maryland,2022-09-04,1225805
+Maryland,2022-09-05,1225805
+Maryland,2022-09-06,1226966
+Maryland,2022-09-07,1229864
+Maryland,2022-09-08,1230754
+Maryland,2022-09-09,1232093
+Maryland,2022-09-10,1232093
+Maryland,2022-09-11,1232093
+Maryland,2022-09-12,1233359
+Maryland,2022-09-13,1235556
+Maryland,2022-09-14,1236570
+Maryland,2022-09-15,1237800
+Maryland,2022-09-16,1239006
+Maryland,2022-09-17,1239006
+Maryland,2022-09-18,1239006
+Maryland,2022-09-19,1239990
+Maryland,2022-09-20,1241973
+Maryland,2022-09-21,1242937
+Maryland,2022-09-22,1244027
+Maryland,2022-09-23,1244747
+Maryland,2022-09-24,1244747
+Maryland,2022-09-25,1244747
+Maryland,2022-09-26,1246003
+Maryland,2022-09-27,1247703
+Maryland,2022-09-28,1248592
+Maryland,2022-09-29,1249452
+Maryland,2022-09-30,1250304
+Maryland,2022-10-01,1250304
+Maryland,2022-10-02,1250304
+Maryland,2022-10-03,1251116
+Maryland,2022-10-04,1252630
+Maryland,2022-10-05,1253315
+Maryland,2022-10-06,1254152
+Maryland,2022-10-07,1254937
+Maryland,2022-10-08,1254937
+Maryland,2022-10-09,1254937
+Maryland,2022-10-10,1254937
+Maryland,2022-10-11,1255656
+Maryland,2022-10-12,1257630
+Maryland,2022-10-13,1258336
+Maryland,2022-10-14,1259085
+Maryland,2022-10-15,1259085
+Maryland,2022-10-16,1259085
+Maryland,2022-10-17,1259868
+Maryland,2022-10-18,1261418
+Maryland,2022-10-19,1262107
+Maryland,2022-10-20,1262864
+Maryland,2022-10-21,1263553
+Maryland,2022-10-22,1263553
+Maryland,2022-10-23,1263553
+Maryland,2022-10-24,1264229
+Maryland,2022-10-25,1265630
+Maryland,2022-10-26,1266249
+Maryland,2022-10-27,1267155
+Maryland,2022-10-28,1268014
+Maryland,2022-10-29,1268014
+Maryland,2022-10-30,1268014
+Maryland,2022-10-31,1268833
+Maryland,2022-11-01,1270417
+Maryland,2022-11-02,1271118
+Maryland,2022-11-03,1272014
+Maryland,2022-11-04,1272849
+Maryland,2022-11-05,1272849
+Maryland,2022-11-06,1272849
+Maryland,2022-11-07,1273721
+Maryland,2022-11-08,1273721
+Maryland,2022-11-09,1275482
+Maryland,2022-11-10,1276832
+Maryland,2022-11-11,1276832
+Maryland,2022-11-12,1276832
+Maryland,2022-11-13,1276832
+Maryland,2022-11-14,1277576
+Maryland,2022-11-15,1279483
+Maryland,2022-11-16,1280157
+Maryland,2022-11-17,1280904
+Maryland,2022-11-18,1281632
+Maryland,2022-11-19,1281632
+Maryland,2022-11-20,1281632
+Maryland,2022-11-21,1282382
+Maryland,2022-11-22,1283809
+Maryland,2022-11-23,1284450
+Maryland,2022-11-24,1284450
+Maryland,2022-11-25,1284450
+Maryland,2022-11-26,1284450
+Maryland,2022-11-27,1284450
+Maryland,2022-11-28,1285181
+Maryland,2022-11-29,1287789
+Maryland,2022-11-30,1288582
+Maryland,2022-12-01,1289880
+Virginia,2020-03-07,1
+Virginia,2020-03-08,2
+Virginia,2020-03-09,5
+Virginia,2020-03-10,8
+Virginia,2020-03-11,10
+Virginia,2020-03-12,17
+Virginia,2020-03-13,30
+Virginia,2020-03-14,42
+Virginia,2020-03-15,45
+Virginia,2020-03-16,51
+Virginia,2020-03-17,67
+Virginia,2020-03-18,78
+Virginia,2020-03-19,94
+Virginia,2020-03-20,115
+Virginia,2020-03-21,152
+Virginia,2020-03-22,219
+Virginia,2020-03-23,254
+Virginia,2020-03-24,291
+Virginia,2020-03-25,390
+Virginia,2020-03-26,603
+Virginia,2020-03-27,605
+Virginia,2020-03-28,739
+Virginia,2020-03-29,889
+Virginia,2020-03-30,1020
+Virginia,2020-03-31,1249
+Virginia,2020-04-01,1511
+Virginia,2020-04-02,1706
+Virginia,2020-04-03,2011
+Virginia,2020-04-04,2408
+Virginia,2020-04-05,2636
+Virginia,2020-04-06,2877
+Virginia,2020-04-07,3332
+Virginia,2020-04-08,3644
+Virginia,2020-04-09,4041
+Virginia,2020-04-10,4509
+Virginia,2020-04-11,5076
+Virginia,2020-04-12,5273
+Virginia,2020-04-13,5746
+Virginia,2020-04-14,6173
+Virginia,2020-04-15,6502
+Virginia,2020-04-16,6891
+Virginia,2020-04-17,7492
+Virginia,2020-04-18,8053
+Virginia,2020-04-19,8536
+Virginia,2020-04-20,8989
+Virginia,2020-04-21,9629
+Virginia,2020-04-22,10265
+Virginia,2020-04-23,10999
+Virginia,2020-04-24,11595
+Virginia,2020-04-25,12365
+Virginia,2020-04-26,12969
+Virginia,2020-04-27,13534
+Virginia,2020-04-28,14340
+Virginia,2020-04-29,14963
+Virginia,2020-04-30,15848
+Virginia,2020-05-01,16903
+Virginia,2020-05-02,17733
+Virginia,2020-05-03,18673
+Virginia,2020-05-04,19494
+Virginia,2020-05-05,20258
+Virginia,2020-05-06,20258
+Virginia,2020-05-07,21570
+Virginia,2020-05-08,22342
+Virginia,2020-05-09,23196
+Virginia,2020-05-10,24081
+Virginia,2020-05-11,25070
+Virginia,2020-05-12,25800
+Virginia,2020-05-13,26746
+Virginia,2020-05-14,27813
+Virginia,2020-05-15,28672
+Virginia,2020-05-16,29683
+Virginia,2020-05-17,30388
+Virginia,2020-05-18,31140
+Virginia,2020-05-19,32145
+Virginia,2020-05-20,32908
+Virginia,2020-05-21,34137
+Virginia,2020-05-22,34950
+Virginia,2020-05-23,35749
+Virginia,2020-05-24,36244
+Virginia,2020-05-25,37727
+Virginia,2020-05-26,39342
+Virginia,2020-05-27,40249
+Virginia,2020-05-28,41401
+Virginia,2020-05-29,42533
+Virginia,2020-05-30,43611
+Virginia,2020-05-31,44607
+Virginia,2020-06-01,45398
+Virginia,2020-06-02,46239
+Virginia,2020-06-03,46905
+Virginia,2020-06-04,47856
+Virginia,2020-06-05,48532
+Virginia,2020-06-06,49397
+Virginia,2020-06-07,50681
+Virginia,2020-06-08,51251
+Virginia,2020-06-09,51738
+Virginia,2020-06-10,52177
+Virginia,2020-06-11,52647
+Virginia,2020-06-12,53211
+Virginia,2020-06-13,53869
+Virginia,2020-06-14,54506
+Virginia,2020-06-15,54886
+Virginia,2020-06-16,55331
+Virginia,2020-06-17,55775
+Virginia,2020-06-18,56238
+Virginia,2020-06-19,56793
+Virginia,2020-06-20,57443
+Virginia,2020-06-21,57994
+Virginia,2020-06-22,58465
+Virginia,2020-06-23,58994
+Virginia,2020-06-24,59514
+Virginia,2020-06-25,59946
+Virginia,2020-06-26,60570
+Virginia,2020-06-27,61247
+Virginia,2020-06-28,61736
+Virginia,2020-06-29,62189
+Virginia,2020-06-30,62787
+Virginia,2020-07-01,63203
+Virginia,2020-07-02,63735
+Virginia,2020-07-03,64393
+Virginia,2020-07-04,65109
+Virginia,2020-07-05,65748
+Virginia,2020-07-06,66102
+Virginia,2020-07-07,66740
+Virginia,2020-07-08,67375
+Virginia,2020-07-09,67988
+Virginia,2020-07-10,68931
+Virginia,2020-07-11,69782
+Virginia,2020-07-12,70670
+Virginia,2020-07-13,71642
+Virginia,2020-07-14,72443
+Virginia,2020-07-15,73527
+Virginia,2020-07-16,74431
+Virginia,2020-07-17,75433
+Virginia,2020-07-18,76373
+Virginia,2020-07-19,77430
+Virginia,2020-07-20,78375
+Virginia,2020-07-21,79371
+Virginia,2020-07-22,80393
+Virginia,2020-07-23,81237
+Virginia,2020-07-24,82364
+Virginia,2020-07-25,83609
+Virginia,2020-07-26,84567
+Virginia,2020-07-27,86072
+Virginia,2020-07-28,86994
+Virginia,2020-07-29,87993
+Virginia,2020-07-30,88904
+Virginia,2020-07-31,89888
+Virginia,2020-08-01,90801
+Virginia,2020-08-02,91782
+Virginia,2020-08-03,93106
+Virginia,2020-08-04,94251
+Virginia,2020-08-05,95049
+Virginia,2020-08-06,95867
+Virginia,2020-08-07,97882
+Virginia,2020-08-08,99189
+Virginia,2020-08-09,100086
+Virginia,2020-08-10,100749
+Virginia,2020-08-11,101745
+Virginia,2020-08-12,102521
+Virginia,2020-08-13,103622
+Virginia,2020-08-14,104838
+Virginia,2020-08-15,105750
+Virginia,2020-08-16,106687
+Virginia,2020-08-17,107421
+Virginia,2020-08-18,108282
+Virginia,2020-08-19,109019
+Virginia,2020-08-20,109895
+Virginia,2020-08-21,110860
+Virginia,2020-08-22,112072
+Virginia,2020-08-23,112966
+Virginia,2020-08-24,113630
+Virginia,2020-08-25,114635
+Virginia,2020-08-26,115458
+Virginia,2020-08-27,116579
+Virginia,2020-08-28,117592
+Virginia,2020-08-29,118809
+Virginia,2020-08-30,119747
+Virginia,2020-08-31,120594
+Virginia,2020-09-01,121615
+Virginia,2020-09-02,122542
+Virginia,2020-09-03,123668
+Virginia,2020-09-04,124779
+Virginia,2020-09-05,125727
+Virginia,2020-09-06,126926
+Virginia,2020-09-07,127571
+Virginia,2020-09-08,128407
+Virginia,2020-09-09,129289
+Virginia,2020-09-10,130525
+Virginia,2020-09-11,131640
+Virginia,2020-09-12,132940
+Virginia,2020-09-13,133814
+Virginia,2020-09-14,134571
+Virginia,2020-09-15,135514
+Virginia,2020-09-16,136359
+Virginia,2020-09-17,137460
+Virginia,2020-09-18,138702
+Virginia,2020-09-19,139655
+Virginia,2020-09-20,140511
+Virginia,2020-09-21,141138
+Virginia,2020-09-22,142010
+Virginia,2020-09-23,142590
+Virginia,2020-09-24,143492
+Virginia,2020-09-25,144433
+Virginia,2020-09-26,145408
+Virginia,2020-09-27,146144
+Virginia,2020-09-28,146593
+Virginia,2020-09-29,147516
+Virginia,2020-09-30,148271
+Virginia,2020-10-01,148721
+Virginia,2020-10-02,149687
+Virginia,2020-10-03,150803
+Virginia,2020-10-04,151870
+Virginia,2020-10-05,152557
+Virginia,2020-10-06,153182
+Virginia,2020-10-07,153691
+Virginia,2020-10-08,155535
+Virginia,2020-10-09,156649
+Virginia,2020-10-10,157905
+Virginia,2020-10-11,158716
+Virginia,2020-10-12,159570
+Virginia,2020-10-13,160805
+Virginia,2020-10-14,161610
+Virginia,2020-10-15,162941
+Virginia,2020-10-16,164124
+Virginia,2020-10-17,165238
+Virginia,2020-10-18,166138
+Virginia,2020-10-19,166828
+Virginia,2020-10-20,167754
+Virginia,2020-10-21,168772
+Virginia,2020-10-22,170104
+Virginia,2020-10-23,171284
+Virginia,2020-10-24,172372
+Virginia,2020-10-25,173371
+Virginia,2020-10-26,174275
+Virginia,2020-10-27,175409
+Virginia,2020-10-28,176754
+Virginia,2020-10-29,178183
+Virginia,2020-10-30,179639
+Virginia,2020-10-31,181190
+Virginia,2020-11-01,182392
+Virginia,2020-11-02,183418
+Virginia,2020-11-03,184679
+Virginia,2020-11-04,185836
+Virginia,2020-11-05,187202
+Virginia,2020-11-06,188770
+Virginia,2020-11-07,190873
+Virginia,2020-11-08,192175
+Virginia,2020-11-09,193477
+Virginia,2020-11-10,194912
+Virginia,2020-11-11,196506
+Virginia,2020-11-12,198027
+Virginia,2020-11-13,199262
+Virginia,2020-11-14,200799
+Virginia,2020-11-15,201960
+Virginia,2020-11-16,204637
+Virginia,2020-11-17,206762
+Virginia,2020-11-18,208833
+Virginia,2020-11-19,210787
+Virginia,2020-11-20,213331
+Virginia,2020-11-21,215679
+Virginia,2020-11-22,217796
+Virginia,2020-11-23,221038
+Virginia,2020-11-24,223582
+Virginia,2020-11-25,226300
+Virginia,2020-11-26,228900
+Virginia,2020-11-27,230444
+Virginia,2020-11-28,233617
+Virginia,2020-11-29,235942
+Virginia,2020-11-30,237835
+Virginia,2020-12-01,240063
+Virginia,2020-12-02,242480
+Virginia,2020-12-03,244503
+Virginia,2020-12-04,247380
+Virginia,2020-12-05,251173
+Virginia,2020-12-06,255053
+Virginia,2020-12-07,258870
+Virginia,2020-12-08,262730
+Virginia,2020-12-09,267128
+Virginia,2020-12-10,271043
+Virginia,2020-12-11,274438
+Virginia,2020-12-12,278615
+Virginia,2020-12-13,281909
+Virginia,2020-12-14,285149
+Virginia,2020-12-15,288309
+Virginia,2020-12-16,292240
+Virginia,2020-12-17,296093
+Virginia,2020-12-18,299388
+Virginia,2020-12-19,302972
+Virginia,2020-12-20,306848
+Virginia,2020-12-21,310890
+Virginia,2020-12-22,314481
+Virginia,2020-12-23,319133
+Virginia,2020-12-24,323915
+Virginia,2020-12-25,327993
+Virginia,2020-12-26,329577
+Virginia,2020-12-27,333576
+Virginia,2020-12-28,336175
+Virginia,2020-12-29,340297
+Virginia,2020-12-30,344345
+Virginia,2020-12-31,349584
+Virginia,2021-01-01,354766
+Virginia,2021-01-02,358755
+Virginia,2021-01-03,363765
+Virginia,2021-01-04,367536
+Virginia,2021-01-05,371913
+Virginia,2021-01-06,377300
+Virginia,2021-01-07,382679
+Virginia,2021-01-08,387917
+Virginia,2021-01-09,393715
+Virginia,2021-01-10,398856
+Virginia,2021-01-11,403386
+Virginia,2021-01-12,407947
+Virginia,2021-01-13,412545
+Virginia,2021-01-14,417839
+Virginia,2021-01-15,422634
+Virginia,2021-01-16,429391
+Virginia,2021-01-17,439305
+Virginia,2021-01-18,446550
+Virginia,2021-01-19,451076
+Virginia,2021-01-20,455591
+Virginia,2021-01-21,459604
+Virginia,2021-01-22,463751
+Virginia,2021-01-23,468655
+Virginia,2021-01-24,472447
+Virginia,2021-01-25,478619
+Virginia,2021-01-26,483326
+Virginia,2021-01-27,488553
+Virginia,2021-01-28,493674
+Virginia,2021-01-29,497912
+Virginia,2021-01-30,502221
+Virginia,2021-01-31,504779
+Virginia,2021-02-01,507640
+Virginia,2021-02-02,510380
+Virginia,2021-02-03,513339
+Virginia,2021-02-04,516398
+Virginia,2021-02-05,521467
+Virginia,2021-02-06,526176
+Virginia,2021-02-07,529125
+Virginia,2021-02-08,530825
+Virginia,2021-02-09,534116
+Virginia,2021-02-10,537319
+Virginia,2021-02-11,541018
+Virginia,2021-02-12,544209
+Virginia,2021-02-13,547424
+Virginia,2021-02-14,549999
+Virginia,2021-02-15,551538
+Virginia,2021-02-16,553308
+Virginia,2021-02-17,555592
+Virginia,2021-02-18,557896
+Virginia,2021-02-19,559930
+Virginia,2021-02-20,561812
+Virginia,2021-02-21,564115
+Virginia,2021-02-22,565270
+Virginia,2021-02-23,567039
+Virginia,2021-02-24,568946
+Virginia,2021-02-25,570982
+Virginia,2021-02-26,572639
+Virginia,2021-02-27,574314
+Virginia,2021-02-28,576050
+Virginia,2021-03-01,577174
+Virginia,2021-03-02,578559
+Virginia,2021-03-03,580108
+Virginia,2021-03-04,581408
+Virginia,2021-03-05,583060
+Virginia,2021-03-06,584537
+Virginia,2021-03-07,585700
+Virginia,2021-03-08,586592
+Virginia,2021-03-09,588129
+Virginia,2021-03-10,589375
+Virginia,2021-03-11,590625
+Virginia,2021-03-12,592214
+Virginia,2021-03-13,593562
+Virginia,2021-03-14,594735
+Virginia,2021-03-15,595865
+Virginia,2021-03-16,597141
+Virginia,2021-03-17,598468
+Virginia,2021-03-18,600550
+Virginia,2021-03-19,602182
+Virginia,2021-03-20,603748
+Virginia,2021-03-21,604908
+Virginia,2021-03-22,605969
+Virginia,2021-03-23,607234
+Virginia,2021-03-24,608704
+Virginia,2021-03-25,610263
+Virginia,2021-03-26,612062
+Virginia,2021-03-27,613974
+Virginia,2021-03-28,615366
+Virginia,2021-03-29,616509
+Virginia,2021-03-30,617941
+Virginia,2021-03-31,618976
+Virginia,2021-04-01,620801
+Virginia,2021-04-02,622339
+Virginia,2021-04-03,623881
+Virginia,2021-04-04,625148
+Virginia,2021-04-05,626171
+Virginia,2021-04-06,627605
+Virginia,2021-04-07,629155
+Virginia,2021-04-08,631083
+Virginia,2021-04-09,632625
+Virginia,2021-04-10,634325
+Virginia,2021-04-11,635552
+Virginia,2021-04-12,636862
+Virginia,2021-04-13,638910
+Virginia,2021-04-14,640211
+Virginia,2021-04-15,641626
+Virginia,2021-04-16,643220
+Virginia,2021-04-17,644828
+Virginia,2021-04-18,646133
+Virginia,2021-04-19,647111
+Virginia,2021-04-20,648347
+Virginia,2021-04-21,649608
+Virginia,2021-04-22,650981
+Virginia,2021-04-23,652321
+Virginia,2021-04-24,653326
+Virginia,2021-04-25,654210
+Virginia,2021-04-26,654929
+Virginia,2021-04-27,656051
+Virginia,2021-04-28,657160
+Virginia,2021-04-29,658341
+Virginia,2021-04-30,659590
+Virginia,2021-05-01,660553
+Virginia,2021-05-02,661314
+Virginia,2021-05-03,661925
+Virginia,2021-05-04,662696
+Virginia,2021-05-05,663538
+Virginia,2021-05-06,664394
+Virginia,2021-05-07,665332
+Virginia,2021-05-08,666111
+Virginia,2021-05-09,666650
+Virginia,2021-05-10,666986
+Virginia,2021-05-11,667586
+Virginia,2021-05-12,668147
+Virginia,2021-05-13,668726
+Virginia,2021-05-14,669219
+Virginia,2021-05-15,669918
+Virginia,2021-05-16,670192
+Virginia,2021-05-17,670465
+Virginia,2021-05-18,670854
+Virginia,2021-05-19,671325
+Virginia,2021-05-20,671916
+Virginia,2021-05-21,672312
+Virginia,2021-05-22,672793
+Virginia,2021-05-23,673029
+Virginia,2021-05-24,673105
+Virginia,2021-05-25,673759
+Virginia,2021-05-26,674082
+Virginia,2021-05-27,674439
+Virginia,2021-05-28,674843
+Virginia,2021-05-29,675165
+Virginia,2021-05-30,675392
+Virginia,2021-05-31,675538
+Virginia,2021-06-01,675597
+Virginia,2021-06-02,675783
+Virginia,2021-06-03,676041
+Virginia,2021-06-04,676300
+Virginia,2021-06-05,676586
+Virginia,2021-06-06,676741
+Virginia,2021-06-07,676831
+Virginia,2021-06-08,677013
+Virginia,2021-06-09,677210
+Virginia,2021-06-10,677425
+Virginia,2021-06-11,677530
+Virginia,2021-06-12,677671
+Virginia,2021-06-13,677744
+Virginia,2021-06-14,677812
+Virginia,2021-06-15,677949
+Virginia,2021-06-16,678226
+Virginia,2021-06-17,678392
+Virginia,2021-06-18,678506
+Virginia,2021-06-19,678595
+Virginia,2021-06-20,678649
+Virginia,2021-06-21,678765
+Virginia,2021-06-22,678909
+Virginia,2021-06-23,679137
+Virginia,2021-06-24,679330
+Virginia,2021-06-25,679472
+Virginia,2021-06-26,679680
+Virginia,2021-06-27,679828
+Virginia,2021-06-28,679917
+Virginia,2021-06-29,680065
+Virginia,2021-06-30,680340
+Virginia,2021-07-01,680564
+Virginia,2021-07-02,680744
+Virginia,2021-07-03,680904
+Virginia,2021-07-04,681072
+Virginia,2021-07-05,681194
+Virginia,2021-07-06,681326
+Virginia,2021-07-07,681599
+Virginia,2021-07-08,681890
+Virginia,2021-07-09,682147
+Virginia,2021-07-10,682433
+Virginia,2021-07-11,682673
+Virginia,2021-07-12,682856
+Virginia,2021-07-13,683202
+Virginia,2021-07-14,683614
+Virginia,2021-07-15,684054
+Virginia,2021-07-16,684499
+Virginia,2021-07-17,684499
+Virginia,2021-07-18,684499
+Virginia,2021-07-19,685485
+Virginia,2021-07-20,686206
+Virginia,2021-07-21,686884
+Virginia,2021-07-22,687550
+Virginia,2021-07-23,688300
+Virginia,2021-07-24,688300
+Virginia,2021-07-25,688300
+Virginia,2021-07-26,690183
+Virginia,2021-07-27,691018
+Virginia,2021-07-28,692105
+Virginia,2021-07-29,693206
+Virginia,2021-07-30,694384
+Virginia,2021-07-31,694384
+Virginia,2021-08-01,694384
+Virginia,2021-08-02,697939
+Virginia,2021-08-03,699342
+Virginia,2021-08-04,701059
+Virginia,2021-08-05,702819
+Virginia,2021-08-06,704664
+Virginia,2021-08-07,704664
+Virginia,2021-08-08,704664
+Virginia,2021-08-09,709319
+Virginia,2021-08-10,711078
+Virginia,2021-08-11,713195
+Virginia,2021-08-12,715556
+Virginia,2021-08-13,717826
+Virginia,2021-08-14,717826
+Virginia,2021-08-15,717826
+Virginia,2021-08-16,723727
+Virginia,2021-08-17,725971
+Virginia,2021-08-18,728523
+Virginia,2021-08-19,731287
+Virginia,2021-08-20,734079
+Virginia,2021-08-21,734079
+Virginia,2021-08-22,734079
+Virginia,2021-08-23,741160
+Virginia,2021-08-24,744187
+Virginia,2021-08-25,747641
+Virginia,2021-08-26,751133
+Virginia,2021-08-27,754652
+Virginia,2021-08-28,754652
+Virginia,2021-08-29,754652
+Virginia,2021-08-30,762948
+Virginia,2021-08-31,766435
+Virginia,2021-09-01,769842
+Virginia,2021-09-02,774097
+Virginia,2021-09-03,778167
+Virginia,2021-09-04,778167
+Virginia,2021-09-05,778167
+Virginia,2021-09-06,786910
+Virginia,2021-09-07,788917
+Virginia,2021-09-08,793396
+Virginia,2021-09-09,797348
+Virginia,2021-09-10,801827
+Virginia,2021-09-11,801827
+Virginia,2021-09-12,801827
+Virginia,2021-09-13,811079
+Virginia,2021-09-14,814738
+Virginia,2021-09-15,818804
+Virginia,2021-09-16,822985
+Virginia,2021-09-17,827197
+Virginia,2021-09-18,827197
+Virginia,2021-09-19,827197
+Virginia,2021-09-20,836140
+Virginia,2021-09-21,839475
+Virginia,2021-09-22,843212
+Virginia,2021-09-23,846979
+Virginia,2021-09-24,849865
+Virginia,2021-09-25,849865
+Virginia,2021-09-26,849865
+Virginia,2021-09-27,857852
+Virginia,2021-09-28,860493
+Virginia,2021-09-29,863644
+Virginia,2021-09-30,866776
+Virginia,2021-10-01,869328
+Virginia,2021-10-02,869328
+Virginia,2021-10-03,869328
+Virginia,2021-10-04,877090
+Virginia,2021-10-05,878518
+Virginia,2021-10-06,882437
+Virginia,2021-10-07,885323
+Virginia,2021-10-08,888159
+Virginia,2021-10-09,888159
+Virginia,2021-10-10,888159
+Virginia,2021-10-11,893607
+Virginia,2021-10-12,895619
+Virginia,2021-10-13,897978
+Virginia,2021-10-14,900581
+Virginia,2021-10-15,902938
+Virginia,2021-10-16,902938
+Virginia,2021-10-17,902938
+Virginia,2021-10-18,907882
+Virginia,2021-10-19,909499
+Virginia,2021-10-20,911321
+Virginia,2021-10-21,913100
+Virginia,2021-10-22,914755
+Virginia,2021-10-23,914755
+Virginia,2021-10-24,914755
+Virginia,2021-10-25,918700
+Virginia,2021-10-26,919999
+Virginia,2021-10-27,921630
+Virginia,2021-10-28,923125
+Virginia,2021-10-29,924771
+Virginia,2021-10-30,924771
+Virginia,2021-10-31,924771
+Virginia,2021-11-01,927999
+Virginia,2021-11-02,929244
+Virginia,2021-11-03,930679
+Virginia,2021-11-04,932173
+Virginia,2021-11-05,933542
+Virginia,2021-11-06,933542
+Virginia,2021-11-07,933542
+Virginia,2021-11-08,936928
+Virginia,2021-11-09,938376
+Virginia,2021-11-10,939783
+Virginia,2021-11-11,941371
+Virginia,2021-11-12,942837
+Virginia,2021-11-13,942837
+Virginia,2021-11-14,942837
+Virginia,2021-11-15,946061
+Virginia,2021-11-16,947271
+Virginia,2021-11-17,949803
+Virginia,2021-11-18,951698
+Virginia,2021-11-19,953460
+Virginia,2021-11-20,953460
+Virginia,2021-11-21,953460
+Virginia,2021-11-22,957570
+Virginia,2021-11-23,959156
+Virginia,2021-11-24,960691
+Virginia,2021-11-25,962472
+Virginia,2021-11-26,963739
+Virginia,2021-11-27,963739
+Virginia,2021-11-28,963739
+Virginia,2021-11-29,967209
+Virginia,2021-11-30,969116
+Virginia,2021-12-01,971529
+Virginia,2021-12-02,974001
+Virginia,2021-12-03,976599
+Virginia,2021-12-04,976599
+Virginia,2021-12-05,976599
+Virginia,2021-12-06,983055
+Virginia,2021-12-07,985297
+Virginia,2021-12-08,988147
+Virginia,2021-12-09,991221
+Virginia,2021-12-10,994069
+Virginia,2021-12-11,994069
+Virginia,2021-12-12,994069
+Virginia,2021-12-13,1000694
+Virginia,2021-12-14,1003110
+Virginia,2021-12-15,1006245
+Virginia,2021-12-16,1009933
+Virginia,2021-12-17,1013390
+Virginia,2021-12-18,1013390
+Virginia,2021-12-19,1013390
+Virginia,2021-12-20,1023698
+Virginia,2021-12-21,1028135
+Virginia,2021-12-22,1034107
+Virginia,2021-12-23,1040580
+Virginia,2021-12-24,1049336
+Virginia,2021-12-25,1049336
+Virginia,2021-12-26,1049336
+Virginia,2021-12-27,1067849
+Virginia,2021-12-28,1075288
+Virginia,2021-12-29,1087400
+Virginia,2021-12-30,1100900
+Virginia,2021-12-31,1118518
+Virginia,2022-01-01,1118518
+Virginia,2022-01-02,1118518
+Virginia,2022-01-03,1160703
+Virginia,2022-01-04,1176159
+Virginia,2022-01-05,1186887
+Virginia,2022-01-06,1202727
+Virginia,2022-01-07,1221036
+Virginia,2022-01-08,1221036
+Virginia,2022-01-09,1221036
+Virginia,2022-01-10,1278739
+Virginia,2022-01-11,1295420
+Virginia,2022-01-12,1315256
+Virginia,2022-01-13,1334198
+Virginia,2022-01-14,1351417
+Virginia,2022-01-15,1351417
+Virginia,2022-01-16,1351417
+Virginia,2022-01-17,1397155
+Virginia,2022-01-18,1407403
+Virginia,2022-01-19,1419883
+Virginia,2022-01-20,1434686
+Virginia,2022-01-21,1451713
+Virginia,2022-01-22,1451713
+Virginia,2022-01-23,1451713
+Virginia,2022-01-24,1481294
+Virginia,2022-01-25,1491993
+Virginia,2022-01-26,1503119
+Virginia,2022-01-27,1514862
+Virginia,2022-01-28,1525603
+Virginia,2022-01-29,1525603
+Virginia,2022-01-30,1525603
+Virginia,2022-01-31,1545650
+Virginia,2022-02-01,1551705
+Virginia,2022-02-02,1558383
+Virginia,2022-02-03,1565522
+Virginia,2022-02-04,1572022
+Virginia,2022-02-05,1572022
+Virginia,2022-02-06,1572022
+Virginia,2022-02-07,1584248
+Virginia,2022-02-08,1588937
+Virginia,2022-02-09,1593675
+Virginia,2022-02-10,1598402
+Virginia,2022-02-11,1602677
+Virginia,2022-02-12,1602677
+Virginia,2022-02-13,1602677
+Virginia,2022-02-14,1610726
+Virginia,2022-02-15,1613719
+Virginia,2022-02-16,1616749
+Virginia,2022-02-17,1619839
+Virginia,2022-02-18,1622685
+Virginia,2022-02-19,1622685
+Virginia,2022-02-20,1622685
+Virginia,2022-02-21,1628623
+Virginia,2022-02-22,1630796
+Virginia,2022-02-23,1633035
+Virginia,2022-02-24,1634851
+Virginia,2022-02-25,1636510
+Virginia,2022-02-26,1636510
+Virginia,2022-02-27,1636510
+Virginia,2022-02-28,1639942
+Virginia,2022-03-01,1641438
+Virginia,2022-03-02,1643050
+Virginia,2022-03-03,1644694
+Virginia,2022-03-04,1645791
+Virginia,2022-03-05,1645791
+Virginia,2022-03-06,1645791
+Virginia,2022-03-07,1648179
+Virginia,2022-03-08,1649266
+Virginia,2022-03-09,1650334
+Virginia,2022-03-10,1651940
+Virginia,2022-03-11,1653212
+Virginia,2022-03-12,1653212
+Virginia,2022-03-13,1653212
+Virginia,2022-03-14,1654893
+Virginia,2022-03-15,1656187
+Virginia,2022-03-16,1657409
+Virginia,2022-03-17,1658568
+Virginia,2022-03-18,1659710
+Virginia,2022-03-19,1659710
+Virginia,2022-03-20,1659710
+Virginia,2022-03-21,1661484
+Virginia,2022-03-22,1662140
+Virginia,2022-03-23,1663132
+Virginia,2022-03-24,1664080
+Virginia,2022-03-25,1665082
+Virginia,2022-03-26,1665082
+Virginia,2022-03-27,1665082
+Virginia,2022-03-28,1666422
+Virginia,2022-03-29,1667289
+Virginia,2022-03-30,1668087
+Virginia,2022-03-31,1668891
+Virginia,2022-04-01,1669750
+Virginia,2022-04-02,1669750
+Virginia,2022-04-03,1669750
+Virginia,2022-04-04,1671423
+Virginia,2022-04-05,1672450
+Virginia,2022-04-06,1673382
+Virginia,2022-04-07,1674560
+Virginia,2022-04-08,1675845
+Virginia,2022-04-09,1675845
+Virginia,2022-04-10,1675845
+Virginia,2022-04-11,1678215
+Virginia,2022-04-12,1679418
+Virginia,2022-04-13,1680533
+Virginia,2022-04-14,1681729
+Virginia,2022-04-15,1683267
+Virginia,2022-04-16,1683267
+Virginia,2022-04-17,1683267
+Virginia,2022-04-18,1685887
+Virginia,2022-04-19,1686861
+Virginia,2022-04-20,1688068
+Virginia,2022-04-21,1689563
+Virginia,2022-04-22,1691268
+Virginia,2022-04-23,1691268
+Virginia,2022-04-24,1691268
+Virginia,2022-04-25,1694570
+Virginia,2022-04-26,1696048
+Virginia,2022-04-27,1697577
+Virginia,2022-04-28,1699596
+Virginia,2022-04-29,1701458
+Virginia,2022-04-30,1701458
+Virginia,2022-05-01,1701458
+Virginia,2022-05-02,1705650
+Virginia,2022-05-03,1707085
+Virginia,2022-05-04,1710272
+Virginia,2022-05-05,1712801
+Virginia,2022-05-06,1715478
+Virginia,2022-05-07,1715478
+Virginia,2022-05-08,1715478
+Virginia,2022-05-09,1721501
+Virginia,2022-05-10,1723985
+Virginia,2022-05-11,1726749
+Virginia,2022-05-12,1729893
+Virginia,2022-05-13,1733188
+Virginia,2022-05-14,1733188
+Virginia,2022-05-15,1733188
+Virginia,2022-05-16,1740753
+Virginia,2022-05-17,1744306
+Virginia,2022-05-18,1747607
+Virginia,2022-05-19,1751443
+Virginia,2022-05-20,1755290
+Virginia,2022-05-21,1755290
+Virginia,2022-05-22,1755290
+Virginia,2022-05-23,1763908
+Virginia,2022-05-24,1767132
+Virginia,2022-05-25,1770620
+Virginia,2022-05-26,1774185
+Virginia,2022-05-27,1777813
+Virginia,2022-05-28,1777813
+Virginia,2022-05-29,1777813
+Virginia,2022-05-30,1785768
+Virginia,2022-05-31,1787756
+Virginia,2022-06-01,1790726
+Virginia,2022-06-02,1793644
+Virginia,2022-06-03,1797700
+Virginia,2022-06-04,1797700
+Virginia,2022-06-05,1797700
+Virginia,2022-06-06,1805781
+Virginia,2022-06-07,1808408
+Virginia,2022-06-08,1811366
+Virginia,2022-06-09,1814666
+Virginia,2022-06-10,1817814
+Virginia,2022-06-11,1817814
+Virginia,2022-06-12,1817814
+Virginia,2022-06-13,1824660
+Virginia,2022-06-14,1827418
+Virginia,2022-06-15,1830122
+Virginia,2022-06-16,1832648
+Virginia,2022-06-17,1835591
+Virginia,2022-06-18,1835591
+Virginia,2022-06-19,1835591
+Virginia,2022-06-20,1841786
+Virginia,2022-06-21,1844313
+Virginia,2022-06-22,1846905
+Virginia,2022-06-23,1849990
+Virginia,2022-06-24,1852970
+Virginia,2022-06-25,1852970
+Virginia,2022-06-26,1852970
+Virginia,2022-06-27,1859589
+Virginia,2022-06-28,1862659
+Virginia,2022-06-29,1865917
+Virginia,2022-06-30,1869231
+Virginia,2022-07-01,1872624
+Virginia,2022-07-02,1872624
+Virginia,2022-07-03,1872624
+Virginia,2022-07-04,1879306
+Virginia,2022-07-05,1881525
+Virginia,2022-07-06,1884246
+Virginia,2022-07-07,1887431
+Virginia,2022-07-08,1890973
+Virginia,2022-07-09,1890973
+Virginia,2022-07-10,1890973
+Virginia,2022-07-11,1898849
+Virginia,2022-07-12,1902133
+Virginia,2022-07-13,1905474
+Virginia,2022-07-14,1908742
+Virginia,2022-07-15,1912217
+Virginia,2022-07-16,1912217
+Virginia,2022-07-17,1912217
+Virginia,2022-07-18,1919590
+Virginia,2022-07-19,1922809
+Virginia,2022-07-20,1925915
+Virginia,2022-07-21,1929718
+Virginia,2022-07-22,1933366
+Virginia,2022-07-23,1933366
+Virginia,2022-07-24,1933366
+Virginia,2022-07-25,1941358
+Virginia,2022-07-26,1944125
+Virginia,2022-07-27,1947686
+Virginia,2022-07-28,1950818
+Virginia,2022-07-29,1954716
+Virginia,2022-07-30,1954716
+Virginia,2022-07-31,1954716
+Virginia,2022-08-01,1962140
+Virginia,2022-08-02,1965090
+Virginia,2022-08-03,1968329
+Virginia,2022-08-04,1971358
+Virginia,2022-08-05,1975007
+Virginia,2022-08-06,1975007
+Virginia,2022-08-07,1975007
+Virginia,2022-08-08,1981758
+Virginia,2022-08-09,1984528
+Virginia,2022-08-10,1987738
+Virginia,2022-08-11,1990841
+Virginia,2022-08-12,1993874
+Virginia,2022-08-13,1993874
+Virginia,2022-08-14,1993874
+Virginia,2022-08-15,1999881
+Virginia,2022-08-16,2002553
+Virginia,2022-08-17,2005336
+Virginia,2022-08-18,2008336
+Virginia,2022-08-19,2011057
+Virginia,2022-08-20,2011057
+Virginia,2022-08-21,2011057
+Virginia,2022-08-22,2017131
+Virginia,2022-08-23,2019863
+Virginia,2022-08-24,2022778
+Virginia,2022-08-25,2025685
+Virginia,2022-08-26,2028479
+Virginia,2022-08-27,2028479
+Virginia,2022-08-28,2028479
+Virginia,2022-08-29,2034647
+Virginia,2022-08-30,2037406
+Virginia,2022-08-31,2040106
+Virginia,2022-09-01,2042890
+Virginia,2022-09-02,2045387
+Virginia,2022-09-03,2045387
+Virginia,2022-09-04,2045387
+Virginia,2022-09-05,2050814
+Virginia,2022-09-06,2052404
+Virginia,2022-09-07,2054230
+Virginia,2022-09-08,2054848
+Virginia,2022-09-09,2058582
+Virginia,2022-09-10,2058582
+Virginia,2022-09-11,2058582
+Virginia,2022-09-12,2062984
+Virginia,2022-09-13,2064992
+Virginia,2022-09-14,2066675
+Virginia,2022-09-15,2068350
+Virginia,2022-09-16,2070182
+Virginia,2022-09-17,2070182
+Virginia,2022-09-18,2070182
+Virginia,2022-09-19,2074003
+Virginia,2022-09-20,2075283
+Virginia,2022-09-21,2076914
+Virginia,2022-09-22,2078555
+Virginia,2022-09-23,2080262
+Virginia,2022-09-24,2080262
+Virginia,2022-09-25,2080262
+Virginia,2022-09-26,2083285
+Virginia,2022-09-27,2084569
+Virginia,2022-09-28,2086021
+Virginia,2022-09-29,2087360
+Virginia,2022-09-30,2088708
+Virginia,2022-10-01,2088708
+Virginia,2022-10-02,2088708
+Virginia,2022-10-03,2091192
+Virginia,2022-10-04,2092383
+Virginia,2022-10-05,2093823
+Virginia,2022-10-06,2095256
+Virginia,2022-10-07,2096696
+Virginia,2022-10-08,2096696
+Virginia,2022-10-09,2095900
+Virginia,2022-10-10,2098414
+Virginia,2022-10-11,2099159
+Virginia,2022-10-12,2100503
+Virginia,2022-10-13,2101702
+Virginia,2022-10-14,2102929
+Virginia,2022-10-15,2102929
+Virginia,2022-10-16,2102929
+Virginia,2022-10-17,2105585
+Virginia,2022-10-18,2106527
+Virginia,2022-10-19,2107801
+Virginia,2022-10-20,2108967
+Virginia,2022-10-21,2110071
+Virginia,2022-10-22,2110071
+Virginia,2022-10-23,2110071
+Virginia,2022-10-24,2112539
+Virginia,2022-10-25,2113552
+Virginia,2022-10-26,2114758
+Virginia,2022-10-27,2116060
+Virginia,2022-10-28,2117608
+Virginia,2022-10-29,2117608
+Virginia,2022-10-30,2117608
+Virginia,2022-10-31,2120280
+Virginia,2022-11-01,2121345
+Virginia,2022-11-02,2122439
+Virginia,2022-11-03,2123638
+Virginia,2022-11-04,2124932
+Virginia,2022-11-05,2124932
+Virginia,2022-11-06,2124932
+Virginia,2022-11-07,2127581
+Virginia,2022-11-08,2128552
+Virginia,2022-11-09,2129506
+Virginia,2022-11-10,2130749
+Virginia,2022-11-11,2131894
+Virginia,2022-11-12,2131894
+Virginia,2022-11-13,2131894
+Virginia,2022-11-14,2133781
+Virginia,2022-11-15,2134790
+Virginia,2022-11-16,2135778
+Virginia,2022-11-17,2136700
+Virginia,2022-11-18,2137759
+Virginia,2022-11-19,2137759
+Virginia,2022-11-20,2137759
+Virginia,2022-11-21,2139759
+Virginia,2022-11-22,2140643
+Virginia,2022-11-23,2141888
+Virginia,2022-11-24,2143026
+Virginia,2022-11-25,2143804
+Virginia,2022-11-26,2143804
+Virginia,2022-11-27,2143804
+Virginia,2022-11-28,2146026
+Virginia,2022-11-29,2147680
+Virginia,2022-11-30,2149512
+Virginia,2022-12-01,2151313

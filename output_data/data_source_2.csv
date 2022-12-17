@@ -1,0 +1,408 @@
+state,date,positive cases
+District of Columbia,2020-03-07,1
+District of Columbia,2020-03-08,1
+District of Columbia,2020-03-09,4
+District of Columbia,2020-03-10,4
+District of Columbia,2020-03-11,10
+District of Columbia,2020-03-12,10
+District of Columbia,2020-03-13,10
+District of Columbia,2020-03-14,16
+District of Columbia,2020-03-15,17
+District of Columbia,2020-03-16,22
+District of Columbia,2020-03-17,31
+District of Columbia,2020-03-18,36
+District of Columbia,2020-03-19,39
+District of Columbia,2020-03-20,71
+District of Columbia,2020-03-21,77
+District of Columbia,2020-03-22,98
+District of Columbia,2020-03-23,116
+District of Columbia,2020-03-24,137
+District of Columbia,2020-03-25,183
+District of Columbia,2020-03-26,231
+District of Columbia,2020-03-27,267
+District of Columbia,2020-03-28,304
+District of Columbia,2020-03-29,342
+District of Columbia,2020-03-30,401
+District of Columbia,2020-03-31,495
+District of Columbia,2020-04-01,586
+District of Columbia,2020-04-02,653
+District of Columbia,2020-04-03,757
+District of Columbia,2020-04-04,902
+District of Columbia,2020-04-05,998
+District of Columbia,2020-04-06,1097
+District of Columbia,2020-04-07,1211
+District of Columbia,2020-04-08,1440
+District of Columbia,2020-04-09,1523
+District of Columbia,2020-04-10,1660
+District of Columbia,2020-04-11,1778
+District of Columbia,2020-04-12,1875
+District of Columbia,2020-04-13,1955
+District of Columbia,2020-04-14,2058
+District of Columbia,2020-04-15,2197
+District of Columbia,2020-04-16,2350
+District of Columbia,2020-04-17,2476
+District of Columbia,2020-04-18,2666
+District of Columbia,2020-04-19,2793
+District of Columbia,2020-04-20,2927
+District of Columbia,2020-04-21,3098
+District of Columbia,2020-04-22,3206
+District of Columbia,2020-04-23,3361
+District of Columbia,2020-04-24,3528
+District of Columbia,2020-04-25,3699
+District of Columbia,2020-04-26,3841
+District of Columbia,2020-04-27,3892
+District of Columbia,2020-04-28,3994
+District of Columbia,2020-04-29,4106
+District of Columbia,2020-04-30,4323
+District of Columbia,2020-05-01,4658
+District of Columbia,2020-05-02,4797
+District of Columbia,2020-05-03,5016
+District of Columbia,2020-05-04,5170
+District of Columbia,2020-05-05,5322
+District of Columbia,2020-05-06,5461
+District of Columbia,2020-05-07,5654
+District of Columbia,2020-05-08,5899
+District of Columbia,2020-05-09,6102
+District of Columbia,2020-05-10,6272
+District of Columbia,2020-05-11,6389
+District of Columbia,2020-05-12,6485
+District of Columbia,2020-05-13,6584
+District of Columbia,2020-05-14,6736
+District of Columbia,2020-05-15,6871
+District of Columbia,2020-05-16,7042
+District of Columbia,2020-05-17,7123
+District of Columbia,2020-05-18,7270
+District of Columbia,2020-05-19,7434
+District of Columbia,2020-05-20,7551
+District of Columbia,2020-05-21,7788
+District of Columbia,2020-05-22,7893
+District of Columbia,2020-05-23,7966
+District of Columbia,2020-05-24,8110
+District of Columbia,2020-05-25,8225
+District of Columbia,2020-05-26,8334
+District of Columbia,2020-05-27,8406
+District of Columbia,2020-05-28,8492
+District of Columbia,2020-05-29,8538
+District of Columbia,2020-05-30,8717
+District of Columbia,2020-05-31,8801
+District of Columbia,2020-06-01,8857
+District of Columbia,2020-06-02,8886
+District of Columbia,2020-06-03,9016
+District of Columbia,2020-06-04,9120
+District of Columbia,2020-06-05,9199
+District of Columbia,2020-06-06,9269
+District of Columbia,2020-06-07,9332
+District of Columbia,2020-06-08,9389
+District of Columbia,2020-06-09,9474
+District of Columbia,2020-06-10,9537
+District of Columbia,2020-06-11,9589
+District of Columbia,2020-06-12,9654
+District of Columbia,2020-06-13,9709
+District of Columbia,2020-06-14,9767
+District of Columbia,2020-06-15,9799
+District of Columbia,2020-06-16,9818
+District of Columbia,2020-06-17,9847
+District of Columbia,2020-06-18,9903
+District of Columbia,2020-06-19,9952
+District of Columbia,2020-06-20,9984
+District of Columbia,2020-06-21,10020
+District of Columbia,2020-06-22,10058
+District of Columbia,2020-06-23,10094
+District of Columbia,2020-06-24,10128
+District of Columbia,2020-06-25,10159
+District of Columbia,2020-06-26,10185
+District of Columbia,2020-06-27,10216
+District of Columbia,2020-06-28,10248
+District of Columbia,2020-06-29,10292
+District of Columbia,2020-06-30,10327
+District of Columbia,2020-07-01,10365
+District of Columbia,2020-07-02,10390
+District of Columbia,2020-07-03,10435
+District of Columbia,2020-07-04,10447
+District of Columbia,2020-07-05,10482
+District of Columbia,2020-07-06,10515
+District of Columbia,2020-07-07,10569
+District of Columbia,2020-07-08,10642
+District of Columbia,2020-07-09,10679
+District of Columbia,2020-07-10,10743
+District of Columbia,2020-07-11,10801
+District of Columbia,2020-07-12,10847
+District of Columbia,2020-07-13,10906
+District of Columbia,2020-07-14,10946
+District of Columbia,2020-07-15,11026
+District of Columbia,2020-07-16,11076
+District of Columbia,2020-07-17,11115
+District of Columbia,2020-07-18,11194
+District of Columbia,2020-07-19,11261
+Maryland,2020-03-05,3
+Maryland,2020-03-06,3
+Maryland,2020-03-07,3
+Maryland,2020-03-08,5
+Maryland,2020-03-09,6
+Maryland,2020-03-10,9
+Maryland,2020-03-11,13
+Maryland,2020-03-12,13
+Maryland,2020-03-13,18
+Maryland,2020-03-14,27
+Maryland,2020-03-15,32
+Maryland,2020-03-16,39
+Maryland,2020-03-17,57
+Maryland,2020-03-18,85
+Maryland,2020-03-19,108
+Maryland,2020-03-20,150
+Maryland,2020-03-21,195
+Maryland,2020-03-22,245
+Maryland,2020-03-23,290
+Maryland,2020-03-24,349
+Maryland,2020-03-25,423
+Maryland,2020-03-26,581
+Maryland,2020-03-27,790
+Maryland,2020-03-28,1066
+Maryland,2020-03-29,1244
+Maryland,2020-03-30,1415
+Maryland,2020-03-31,1662
+Maryland,2020-04-01,1985
+Maryland,2020-04-02,2331
+Maryland,2020-04-03,2758
+Maryland,2020-04-04,3125
+Maryland,2020-04-05,3609
+Maryland,2020-04-06,4045
+Maryland,2020-04-07,4371
+Maryland,2020-04-08,5529
+Maryland,2020-04-09,6185
+Maryland,2020-04-10,6968
+Maryland,2020-04-11,7694
+Maryland,2020-04-12,8225
+Maryland,2020-04-13,8936
+Maryland,2020-04-14,9472
+Maryland,2020-04-15,10096
+Maryland,2020-04-16,10851
+Maryland,2020-04-17,11641
+Maryland,2020-04-18,12379
+Maryland,2020-04-19,12892
+Maryland,2020-04-20,13750
+Maryland,2020-04-21,14261
+Maryland,2020-04-22,14842
+Maryland,2020-04-23,15805
+Maryland,2020-04-24,16693
+Maryland,2020-04-25,17844
+Maryland,2020-04-26,18664
+Maryland,2020-04-27,19574
+Maryland,2020-04-28,20200
+Maryland,2020-04-29,20942
+Maryland,2020-04-30,21825
+Maryland,2020-05-01,23566
+Maryland,2020-05-02,24568
+Maryland,2020-05-03,25561
+Maryland,2020-05-04,26509
+Maryland,2020-05-05,27217
+Maryland,2020-05-06,28263
+Maryland,2020-05-07,29476
+Maryland,2020-05-08,30592
+Maryland,2020-05-09,31638
+Maryland,2020-05-10,32693
+Maryland,2020-05-11,33483
+Maryland,2020-05-12,34174
+Maryland,2020-05-13,34927
+Maryland,2020-05-14,36021
+Maryland,2020-05-15,37105
+Maryland,2020-05-16,38083
+Maryland,2020-05-17,38920
+Maryland,2020-05-18,39882
+Maryland,2020-05-19,41664
+Maryland,2020-05-20,42442
+Maryland,2020-05-21,43645
+Maryland,2020-05-22,44539
+Maryland,2020-05-23,45608
+Maryland,2020-05-24,46919
+Maryland,2020-05-25,47754
+Maryland,2020-05-26,48290
+Maryland,2020-05-27,49042
+Maryland,2020-05-28,50334
+Maryland,2020-05-29,51631
+Maryland,2020-05-30,52662
+Maryland,2020-05-31,53456
+Maryland,2020-06-01,54035
+Maryland,2020-06-02,54831
+Maryland,2020-06-03,55617
+Maryland,2020-06-04,56490
+Maryland,2020-06-05,57407
+Maryland,2020-06-06,58099
+Maryland,2020-06-07,58593
+Maryland,2020-06-08,59024
+Maryland,2020-06-09,59543
+Maryland,2020-06-10,60114
+Maryland,2020-06-11,60823
+Maryland,2020-06-12,61262
+Maryland,2020-06-13,61935
+Maryland,2020-06-14,62328
+Maryland,2020-06-15,62653
+Maryland,2020-06-16,63004
+Maryland,2020-06-17,63565
+Maryland,2020-06-18,63839
+Maryland,2020-06-19,64150
+Maryland,2020-06-20,64565
+Maryland,2020-06-21,64903
+Maryland,2020-06-22,65202
+Maryland,2020-06-23,65602
+Maryland,2020-06-24,65934
+Maryland,2020-06-25,66397
+Maryland,2020-06-26,66704
+Maryland,2020-06-27,67032
+Maryland,2020-06-28,67360
+Maryland,2020-06-29,67837
+Maryland,2020-06-30,68152
+Maryland,2020-07-01,68502
+Maryland,2020-07-02,69015
+Maryland,2020-07-03,69422
+Maryland,2020-07-04,69724
+Maryland,2020-07-05,69957
+Maryland,2020-07-06,70497
+Maryland,2020-07-07,70986
+Maryland,2020-07-08,71455
+Maryland,2020-07-09,72037
+Maryland,2020-07-10,72503
+Maryland,2020-07-11,73060
+Maryland,2020-07-12,73705
+Maryland,2020-07-13,74124
+Maryland,2020-07-14,74836
+Maryland,2020-07-15,75576
+Maryland,2020-07-16,76237
+Maryland,2020-07-17,76941
+Maryland,2020-07-18,77773
+Maryland,2020-07-19,78698
+Virginia,2020-03-07,1
+Virginia,2020-03-08,2
+Virginia,2020-03-09,5
+Virginia,2020-03-10,8
+Virginia,2020-03-11,10
+Virginia,2020-03-12,17
+Virginia,2020-03-13,30
+Virginia,2020-03-14,42
+Virginia,2020-03-15,45
+Virginia,2020-03-16,51
+Virginia,2020-03-17,67
+Virginia,2020-03-18,78
+Virginia,2020-03-19,94
+Virginia,2020-03-20,115
+Virginia,2020-03-21,152
+Virginia,2020-03-22,219
+Virginia,2020-03-23,254
+Virginia,2020-03-24,291
+Virginia,2020-03-25,390
+Virginia,2020-03-26,603
+Virginia,2020-03-27,605
+Virginia,2020-03-28,739
+Virginia,2020-03-29,889
+Virginia,2020-03-30,1020
+Virginia,2020-03-31,1249
+Virginia,2020-04-01,1511
+Virginia,2020-04-02,1706
+Virginia,2020-04-03,2011
+Virginia,2020-04-04,2408
+Virginia,2020-04-05,2636
+Virginia,2020-04-06,2877
+Virginia,2020-04-07,3332
+Virginia,2020-04-08,3644
+Virginia,2020-04-09,4041
+Virginia,2020-04-10,4509
+Virginia,2020-04-11,5076
+Virginia,2020-04-12,5273
+Virginia,2020-04-13,5746
+Virginia,2020-04-14,6173
+Virginia,2020-04-15,6502
+Virginia,2020-04-16,6891
+Virginia,2020-04-17,7492
+Virginia,2020-04-18,8053
+Virginia,2020-04-19,8536
+Virginia,2020-04-20,8989
+Virginia,2020-04-21,9629
+Virginia,2020-04-22,10265
+Virginia,2020-04-23,10999
+Virginia,2020-04-24,11595
+Virginia,2020-04-25,12365
+Virginia,2020-04-26,12969
+Virginia,2020-04-27,13534
+Virginia,2020-04-28,14338
+Virginia,2020-04-29,14961
+Virginia,2020-04-30,15846
+Virginia,2020-05-01,16901
+Virginia,2020-05-02,17731
+Virginia,2020-05-03,18671
+Virginia,2020-05-04,19492
+Virginia,2020-05-05,20256
+Virginia,2020-05-06,20256
+Virginia,2020-05-07,21570
+Virginia,2020-05-08,22342
+Virginia,2020-05-09,23196
+Virginia,2020-05-10,24081
+Virginia,2020-05-11,25070
+Virginia,2020-05-12,25800
+Virginia,2020-05-13,26746
+Virginia,2020-05-14,27813
+Virginia,2020-05-15,28672
+Virginia,2020-05-16,29683
+Virginia,2020-05-17,30388
+Virginia,2020-05-18,31140
+Virginia,2020-05-19,32145
+Virginia,2020-05-20,32908
+Virginia,2020-05-21,34137
+Virginia,2020-05-22,34950
+Virginia,2020-05-23,35749
+Virginia,2020-05-24,36244
+Virginia,2020-05-25,37727
+Virginia,2020-05-26,39342
+Virginia,2020-05-27,40249
+Virginia,2020-05-28,41401
+Virginia,2020-05-29,42533
+Virginia,2020-05-30,43611
+Virginia,2020-05-31,44607
+Virginia,2020-06-01,45398
+Virginia,2020-06-02,46239
+Virginia,2020-06-03,46905
+Virginia,2020-06-04,47856
+Virginia,2020-06-05,48532
+Virginia,2020-06-06,49397
+Virginia,2020-06-07,50681
+Virginia,2020-06-08,51251
+Virginia,2020-06-09,51738
+Virginia,2020-06-10,52177
+Virginia,2020-06-11,52647
+Virginia,2020-06-12,53211
+Virginia,2020-06-13,53869
+Virginia,2020-06-14,54506
+Virginia,2020-06-15,54886
+Virginia,2020-06-16,55331
+Virginia,2020-06-17,55775
+Virginia,2020-06-18,56238
+Virginia,2020-06-19,56793
+Virginia,2020-06-20,57443
+Virginia,2020-06-21,57994
+Virginia,2020-06-22,58465
+Virginia,2020-06-23,58994
+Virginia,2020-06-24,59514
+Virginia,2020-06-25,59946
+Virginia,2020-06-26,60570
+Virginia,2020-06-27,61247
+Virginia,2020-06-28,61736
+Virginia,2020-06-29,62189
+Virginia,2020-06-30,62787
+Virginia,2020-07-01,63203
+Virginia,2020-07-02,63735
+Virginia,2020-07-03,64393
+Virginia,2020-07-04,65109
+Virginia,2020-07-05,65748
+Virginia,2020-07-06,66102
+Virginia,2020-07-07,66740
+Virginia,2020-07-08,67375
+Virginia,2020-07-09,67988
+Virginia,2020-07-10,68931
+Virginia,2020-07-11,69782
+Virginia,2020-07-12,70670
+Virginia,2020-07-13,71642
+Virginia,2020-07-14,72443
+Virginia,2020-07-15,73527
+Virginia,2020-07-16,74431
+Virginia,2020-07-17,75433
+Virginia,2020-07-18,76373
+Virginia,2020-07-19,77430
